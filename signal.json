@@ -1,16 +1,16 @@
 {
   "valid": true,
   "pair": "XAUUSD",
-  "direction": "SELL",
-  "entry": 4580.5,
-  "sl": 4589.5,
-  "tp1": 4670.0,
+  "direction": "BUY",
+  "entry": null,
+  "sl": null,
+  "tp1": null,
   "tp2": null,
   "confidence": "MEDIUM",
   "source": "jamalnusantara",
-  "method": "regex",
-  "reason": "",
-  "timestamp": "2026-04-28T19:13:56+07:00",
-  "expires": "2026-04-28T20:13:56+07:00",
-  "updated_wib": "28/04/2026 19:13 WIB"
+  "method": "claude",
+  "reason": "Sinyal BUY XAUUSD aktif dari pesan terbaru 'gold buy now'. Sinyal SELL sebelumnya (entry 4578.50-4582.50) sudah dinyatakan selesai dengan recap '85 PIPS waterfall'. Sinyal BUY baru dirilis tanpa detail entry/SL/TP, kemungkinan menyusul di pesan berikutnya.",
+  "timestamp": "2026-04-28T19:23:55+07:00",
+  "expires": "2026-04-28T20:23:55+07:00",
+  "updated_wib": "28/04/2026 19:23 WIB"
 }

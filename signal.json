@@ -2,15 +2,15 @@
   "valid": true,
   "pair": "XAUUSD",
   "direction": "SELL",
-  "entry": null,
-  "sl": null,
-  "tp1": null,
+  "entry": 4592.0,
+  "sl": 4600.0,
+  "tp1": 4680.0,
   "tp2": null,
   "confidence": "MEDIUM",
   "source": "jamalnusantara",
-  "method": "claude",
-  "reason": "Pesan 'gold sell now' adalah sinyal SELL XAUUSD aktif dari konteks gaya @jamalnusantara. Entry, SL, dan TP belum disebutkan (kemungkinan menyusul di pesan berikutnya). Sinyal BUY sebelumnya (150/200 PIPS) sudah dinyatakan selesai/celebrate, sehingga tidak lagi aktif.",
-  "timestamp": "2026-04-28T20:42:18+07:00",
-  "expires": "2026-04-28T21:42:18+07:00",
-  "updated_wib": "28/04/2026 20:42 WIB"
+  "method": "regex",
+  "reason": "",
+  "timestamp": "2026-04-28T20:43:38+07:00",
+  "expires": "2026-04-28T21:43:38+07:00",
+  "updated_wib": "28/04/2026 20:43 WIB"
 }

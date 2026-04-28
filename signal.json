@@ -2,15 +2,15 @@
   "valid": true,
   "pair": "XAUUSD",
   "direction": "SELL",
-  "entry": 4654.0,
+  "entry": null,
   "sl": null,
   "tp1": null,
   "tp2": null,
-  "confidence": "HIGH",
-  "source": "RajaScalperAlang77",
+  "confidence": "MEDIUM",
+  "source": "jamalnusantara",
   "method": "claude",
-  "reason": "Sinyal SELL XAUUSD aktif dari zona H4 dengan entry range terdekat 4649-4659 (rata-rata 4654). Pesan terbaru 'MARI TAKE RISK GOLD DILIVE' mengkonfirmasi sinyal sedang dieksekusi live. Keyword 'Highrisk' dan instruksi konfirmasi TF M15 menunjukkan confidence HIGH. SL dan TP tidak disebutkan eksplisit dalam konteks pesan.",
-  "timestamp": "2026-04-28T20:36:06+07:00",
-  "expires": "2026-04-28T21:36:06+07:00",
-  "updated_wib": "28/04/2026 20:36 WIB"
+  "reason": "Pesan 'gold sell now' adalah sinyal SELL XAUUSD aktif dari konteks gaya @jamalnusantara. Entry, SL, dan TP belum disebutkan (kemungkinan menyusul di pesan berikutnya). Sinyal BUY sebelumnya (150/200 PIPS) sudah dinyatakan selesai/celebrate, sehingga tidak lagi aktif.",
+  "timestamp": "2026-04-28T20:42:18+07:00",
+  "expires": "2026-04-28T21:42:18+07:00",
+  "updated_wib": "28/04/2026 20:42 WIB"
 }

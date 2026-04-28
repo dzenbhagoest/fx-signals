@@ -1,16 +1,16 @@
 {
   "valid": true,
   "pair": "XAUUSD",
-  "direction": "BUY",
-  "entry": 4608.4,
-  "sl": 4600.0,
-  "tp1": 4620.0,
-  "tp2": null,
+  "direction": "SELL",
+  "entry": 4611,
+  "sl": null,
+  "tp1": 4601.5,
+  "tp2": 4590,
   "confidence": "MEDIUM",
-  "source": "jamalnusantara",
-  "method": "regex",
-  "reason": "",
-  "timestamp": "2026-04-28T16:35:06+07:00",
-  "expires": "2026-04-28T17:35:06+07:00",
-  "updated_wib": "28/04/2026 16:35 WIB"
+  "source": "NAS100XAUUSDUS30PIPS",
+  "method": "claude",
+  "reason": "Pesan terbaru konfirmasi harga sudah reach 4611$ dan menunggu target 4603-4600$ (rata-rata 4601.5) lalu 4590$. Konsisten dengan sinyal SELL dari konteks sebelumnya ('sell from the top, hold for 4590-80'). SL tidak disebutkan eksplisit di pesan manapun.",
+  "timestamp": "2026-04-28T16:38:32+07:00",
+  "expires": "2026-04-28T17:38:32+07:00",
+  "updated_wib": "28/04/2026 16:38 WIB"
 }

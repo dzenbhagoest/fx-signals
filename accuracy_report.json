@@ -1,0 +1,496 @@
+{
+  "generated_at": "2026-04-29T07:39:32+07:00",
+  "generated_wib": "29/04/2026 07:39 WIB",
+  "total_channels": 5,
+  "total_signals": 53,
+  "total_resolved": 53,
+  "channel_ranking": [
+    {
+      "rank": 1,
+      "channel": "jamalnusantara",
+      "accuracy_pct": 0.0,
+      "net_pips": 0.0,
+      "total_signal": 21,
+      "rating": "⚠️ Below average",
+      "expectancy": 0.0
+    },
+    {
+      "rank": 2,
+      "channel": "ZAGoldScalper",
+      "accuracy_pct": 0.0,
+      "net_pips": 0.0,
+      "total_signal": 16,
+      "rating": "⚠️ Below average",
+      "expectancy": 0.0
+    }
+  ],
+  "channels": {
+    "jamalnusantara": {
+      "total_signal": 21,
+      "total_executed": 0,
+      "total_resolved": 21,
+      "tp_hit": 0,
+      "sl_hit": 0,
+      "manual_close": 0,
+      "expired": 21,
+      "pending": 0,
+      "total_pips": 0.0,
+      "win_pips": 0.0,
+      "loss_pips": 0.0,
+      "by_pair": {
+        "XAUUSD": {
+          "total": 21,
+          "win": 0,
+          "loss": 0
+        }
+      },
+      "by_confidence": {
+        "HIGH": {
+          "total": 0,
+          "win": 0
+        },
+        "MEDIUM": {
+          "total": 20,
+          "win": 0
+        },
+        "LOW": {
+          "total": 1,
+          "win": 0
+        }
+      },
+      "recent_results": [
+        {
+          "time": "2026-04-28T16:51",
+          "pair": "XAUUSD",
+          "direction": "BUY",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-04-28T19:13",
+          "pair": "XAUUSD",
+          "direction": "SELL",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-04-28T19:13",
+          "pair": "XAUUSD",
+          "direction": "SELL",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-04-28T19:23",
+          "pair": "XAUUSD",
+          "direction": "BUY",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-04-28T19:24",
+          "pair": "XAUUSD",
+          "direction": "BUY",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-04-28T19:32",
+          "pair": "XAUUSD",
+          "direction": "BUY",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-04-28T19:32",
+          "pair": "XAUUSD",
+          "direction": "BUY",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-04-28T19:47",
+          "pair": "XAUUSD",
+          "direction": "BUY",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-04-28T20:42",
+          "pair": "XAUUSD",
+          "direction": "SELL",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-04-28T20:43",
+          "pair": "XAUUSD",
+          "direction": "SELL",
+          "result": "EXPIRED",
+          "pips": 0
+        }
+      ],
+      "accuracy_pct": 0.0,
+      "win_rate_pct": 0.0,
+      "avg_win_pips": 0.0,
+      "avg_loss_pips": 0.0,
+      "net_pips": 0.0,
+      "expectancy": 0.0,
+      "rating": "⚠️ Below average"
+    },
+    "Golldtradersunny2": {
+      "total_signal": 9,
+      "total_executed": 0,
+      "total_resolved": 9,
+      "tp_hit": 0,
+      "sl_hit": 0,
+      "manual_close": 0,
+      "expired": 9,
+      "pending": 0,
+      "total_pips": 0.0,
+      "win_pips": 0.0,
+      "loss_pips": 0.0,
+      "by_pair": {
+        "XAUUSD": {
+          "total": 9,
+          "win": 0,
+          "loss": 0
+        }
+      },
+      "by_confidence": {
+        "HIGH": {
+          "total": 1,
+          "win": 0
+        },
+        "MEDIUM": {
+          "total": 7,
+          "win": 0
+        },
+        "LOW": {
+          "total": 1,
+          "win": 0
+        }
+      },
+      "recent_results": [
+        {
+          "time": "2026-04-28T15:13",
+          "pair": "XAUUSD",
+          "direction": "SELL",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-04-28T15:25",
+          "pair": "XAUUSD",
+          "direction": "SELL",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-04-28T15:25",
+          "pair": "XAUUSD",
+          "direction": "SELL",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-04-28T15:27",
+          "pair": "XAUUSD",
+          "direction": "SELL",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-04-28T15:27",
+          "pair": "XAUUSD",
+          "direction": "SELL",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-04-28T15:28",
+          "pair": "XAUUSD",
+          "direction": "SELL",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-04-28T15:29",
+          "pair": "XAUUSD",
+          "direction": "SELL",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-04-28T17:16",
+          "pair": "XAUUSD",
+          "direction": "BUY",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-04-28T17:16",
+          "pair": "XAUUSD",
+          "direction": "BUY",
+          "result": "EXPIRED",
+          "pips": 0
+        }
+      ],
+      "accuracy_pct": 0.0,
+      "win_rate_pct": 0.0,
+      "avg_win_pips": 0.0,
+      "avg_loss_pips": 0.0,
+      "net_pips": 0.0,
+      "expectancy": 0.0,
+      "rating": "❓ Data kurang (<10 sinyal)"
+    },
+    "ZAGoldScalper": {
+      "total_signal": 16,
+      "total_executed": 0,
+      "total_resolved": 16,
+      "tp_hit": 0,
+      "sl_hit": 0,
+      "manual_close": 0,
+      "expired": 16,
+      "pending": 0,
+      "total_pips": 0.0,
+      "win_pips": 0.0,
+      "loss_pips": 0.0,
+      "by_pair": {
+        "XAUUSD": {
+          "total": 16,
+          "win": 0,
+          "loss": 0
+        }
+      },
+      "by_confidence": {
+        "HIGH": {
+          "total": 0,
+          "win": 0
+        },
+        "MEDIUM": {
+          "total": 16,
+          "win": 0
+        },
+        "LOW": {
+          "total": 0,
+          "win": 0
+        }
+      },
+      "recent_results": [
+        {
+          "time": "2026-04-28T15:27",
+          "pair": "XAUUSD",
+          "direction": "SELL",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-04-28T15:27",
+          "pair": "XAUUSD",
+          "direction": "SELL",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-04-28T15:29",
+          "pair": "XAUUSD",
+          "direction": "SELL",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-04-28T15:29",
+          "pair": "XAUUSD",
+          "direction": "SELL",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-04-28T20:19",
+          "pair": "XAUUSD",
+          "direction": "BUY",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-04-28T20:20",
+          "pair": "XAUUSD",
+          "direction": "BUY",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-04-28T20:31",
+          "pair": "XAUUSD",
+          "direction": "BUY",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-04-28T21:39",
+          "pair": "XAUUSD",
+          "direction": "BUY",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-04-28T21:39",
+          "pair": "XAUUSD",
+          "direction": "BUY",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-04-28T21:39",
+          "pair": "XAUUSD",
+          "direction": "BUY",
+          "result": "EXPIRED",
+          "pips": 0
+        }
+      ],
+      "accuracy_pct": 0.0,
+      "win_rate_pct": 0.0,
+      "avg_win_pips": 0.0,
+      "avg_loss_pips": 0.0,
+      "net_pips": 0.0,
+      "expectancy": 0.0,
+      "rating": "⚠️ Below average"
+    },
+    "NAS100XAUUSDUS30PIPS": {
+      "total_signal": 5,
+      "total_executed": 0,
+      "total_resolved": 5,
+      "tp_hit": 0,
+      "sl_hit": 0,
+      "manual_close": 0,
+      "expired": 5,
+      "pending": 0,
+      "total_pips": 0.0,
+      "win_pips": 0.0,
+      "loss_pips": 0.0,
+      "by_pair": {
+        "XAUUSD": {
+          "total": 5,
+          "win": 0,
+          "loss": 0
+        }
+      },
+      "by_confidence": {
+        "HIGH": {
+          "total": 0,
+          "win": 0
+        },
+        "MEDIUM": {
+          "total": 5,
+          "win": 0
+        },
+        "LOW": {
+          "total": 0,
+          "win": 0
+        }
+      },
+      "recent_results": [
+        {
+          "time": "2026-04-28T15:39",
+          "pair": "XAUUSD",
+          "direction": "BUY",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-04-28T16:38",
+          "pair": "XAUUSD",
+          "direction": "SELL",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-04-28T17:07",
+          "pair": "XAUUSD",
+          "direction": "BUY",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-04-28T18:16",
+          "pair": "XAUUSD",
+          "direction": "SELL",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-04-28T20:07",
+          "pair": "XAUUSD",
+          "direction": "BUY",
+          "result": "EXPIRED",
+          "pips": 0
+        }
+      ],
+      "accuracy_pct": 0.0,
+      "win_rate_pct": 0.0,
+      "avg_win_pips": 0.0,
+      "avg_loss_pips": 0.0,
+      "net_pips": 0.0,
+      "expectancy": 0.0,
+      "rating": "❓ Data kurang (<10 sinyal)"
+    },
+    "RajaScalperAlang77": {
+      "total_signal": 2,
+      "total_executed": 0,
+      "total_resolved": 2,
+      "tp_hit": 0,
+      "sl_hit": 0,
+      "manual_close": 0,
+      "expired": 2,
+      "pending": 0,
+      "total_pips": 0.0,
+      "win_pips": 0.0,
+      "loss_pips": 0.0,
+      "by_pair": {
+        "XAUUSD": {
+          "total": 2,
+          "win": 0,
+          "loss": 0
+        }
+      },
+      "by_confidence": {
+        "HIGH": {
+          "total": 1,
+          "win": 0
+        },
+        "MEDIUM": {
+          "total": 1,
+          "win": 0
+        },
+        "LOW": {
+          "total": 0,
+          "win": 0
+        }
+      },
+      "recent_results": [
+        {
+          "time": "2026-04-28T20:36",
+          "pair": "XAUUSD",
+          "direction": "SELL",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-04-28T22:59",
+          "pair": "XAUUSD",
+          "direction": "BUY",
+          "result": "EXPIRED",
+          "pips": 0
+        }
+      ],
+      "accuracy_pct": 0.0,
+      "win_rate_pct": 0.0,
+      "avg_win_pips": 0.0,
+      "avg_loss_pips": 0.0,
+      "net_pips": 0.0,
+      "expectancy": 0.0,
+      "rating": "❓ Data kurang (<10 sinyal)"
+    }
+  }
+}

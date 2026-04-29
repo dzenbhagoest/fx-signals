@@ -1,19 +1,19 @@
 {
   "valid": true,
   "pair": "XAUUSD",
-  "direction": "SELL",
-  "entry": 4578.5,
+  "direction": "BUY",
+  "entry": 4600.0,
   "sl": null,
   "tp1": null,
   "tp2": null,
   "confidence": "MEDIUM",
-  "source": "🏛️ XAUHQ | THE HEADQUARTERS",
+  "source": "NAS100XAUUSDUS30PIPS",
   "method": "regex",
   "reason": "",
-  "timestamp": "2026-04-29T16:26:05+07:00",
-  "expires": "2026-04-29T18:26:05+07:00",
-  "timestamp_unix": 1777454765,
-  "expires_unix": 1777461965,
-  "updated_wib": "29/04/2026 16:26 WIB",
-  "signal_id": "🏛️ XAUHQ | THE HEADQUARTERS_20260429_162605"
+  "timestamp": "2026-04-29T17:14:10+07:00",
+  "expires": "2026-04-29T19:14:10+07:00",
+  "timestamp_unix": 1777457650,
+  "expires_unix": 1777464850,
+  "updated_wib": "29/04/2026 17:14 WIB",
+  "signal_id": "NAS100XAUUSDUS30PIPS_20260429_171410"
 }

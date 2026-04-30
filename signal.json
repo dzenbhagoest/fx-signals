@@ -9,11 +9,11 @@
   "confidence": "MEDIUM",
   "source": "jamalnusantara",
   "method": "claude",
-  "reason": "Sinyal SELL GOLD dari konteks sebelumnya (range 4565-4570, rata-rata 4567.5) dengan SL 4576 dan TP 4540 sudah jelas. Pesan 'gold sell now' menegaskan sinyal aktif tersebut.",
-  "timestamp": "2026-04-30T13:14:44+07:00",
-  "expires": "2026-04-30T14:14:44+07:00",
-  "timestamp_unix": 1777529684,
-  "expires_unix": 1777533284,
+  "reason": "Sinyal SELL GOLD dari pesan sebelumnya dengan entry range 4565-4570 (rata-rata 4567.5), SL 4576, TP 4540.00. Pesan terbaru ('okay gak tuhh semua ikut entry gak?') adalah konfirmasi/follow-up untuk entry sinyal tersebut, bukan sinyal baru. Pair XAUUSD valid, namun info TP2 tidak ada.",
+  "timestamp": "2026-04-30T13:14:49+07:00",
+  "expires": "2026-04-30T14:14:49+07:00",
+  "timestamp_unix": 1777529689,
+  "expires_unix": 1777533289,
   "updated_wib": "30/04/2026 13:14 WIB",
-  "signal_id": "jamalnusantara_20260430_131444"
+  "signal_id": "jamalnusantara_20260430_131449"
 }

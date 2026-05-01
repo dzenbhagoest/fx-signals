@@ -6,14 +6,14 @@
   "sl": 4621,
   "tp1": 4636,
   "tp2": 4641,
-  "confidence": "HIGH",
+  "confidence": "MEDIUM",
   "source": "Golldtradersunny2",
   "method": "claude",
-  "reason": "Sinyal BUY GOLD aktif dengan entry range 4631-4626 (rata-rata 4628.5), SL 4621, TP1 4636, TP2 4641. Status running +45pips menunjukkan sinyal masih aktif dan profitable. Confidence HIGH karena info lengkap (entry+SL+TP) dan high-risk setup explisit.",
-  "timestamp": "2026-05-01T21:51:21+07:00",
-  "expires": "2026-05-01T22:51:21+07:00",
-  "timestamp_unix": 1777647081,
-  "expires_unix": 1777650681,
-  "updated_wib": "01/05/2026 21:51 WIB",
-  "signal_id": "Golldtradersunny2_20260501_215121"
+  "reason": "Sinyal BUY GOLD dari pesan konteks dengan entry range 4626-4631 (rata-rata 4628.5), SL 4621, TP1 4636, TP2 4641. Status running 60pips. Re-entry on profits mengindikasikan posisi masih aktif/valid.",
+  "timestamp": "2026-05-01T21:53:28+07:00",
+  "expires": "2026-05-01T22:53:28+07:00",
+  "timestamp_unix": 1777647208,
+  "expires_unix": 1777650808,
+  "updated_wib": "01/05/2026 21:53 WIB",
+  "signal_id": "Golldtradersunny2_20260501_215328"
 }

@@ -6,14 +6,14 @@
   "sl": null,
   "tp1": null,
   "tp2": null,
-  "confidence": "MEDIUM",
+  "confidence": "LOW",
   "source": "VVIP Syukur Sinyal 🇮🇩",
   "method": "claude",
-  "reason": "GOLD SELL sinyal dari pesan terakhir, entry=4565 dari konteks 'GOLD SELL NOW 4565', tapi SL dan TP tidak lengkap dalam pesan terbaru",
-  "timestamp": "2026-05-04T20:18:06+07:00",
-  "expires": "2026-05-04T21:18:06+07:00",
-  "timestamp_unix": 1777900686,
-  "expires_unix": 1777904286,
-  "updated_wib": "04/05/2026 20:18 WIB",
-  "signal_id": "VVIP Syukur Sinyal 🇮🇩_20260504_201806"
+  "reason": "GOLD SELL NOW - sinyal jelas tapi entry dari pesan sebelumnya (4565), tidak ada SL dan TP di pesan terbaru",
+  "timestamp": "2026-05-04T20:30:48+07:00",
+  "expires": "2026-05-04T21:30:48+07:00",
+  "timestamp_unix": 1777901448,
+  "expires_unix": 1777905048,
+  "updated_wib": "04/05/2026 20:30 WIB",
+  "signal_id": "VVIP Syukur Sinyal 🇮🇩_20260504_203048"
 }

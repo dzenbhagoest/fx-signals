@@ -2,7 +2,7 @@
   "valid": true,
   "pair": "XAUUSD",
   "direction": "BUY",
-  "entry": 4574.0,
+  "entry": 4571.0,
   "sl": 4563.0,
   "tp1": 4580.0,
   "tp2": null,
@@ -10,10 +10,10 @@
   "source": "jamalnusantara",
   "method": "regex",
   "reason": "",
-  "timestamp": "2026-05-04T21:26:20+07:00",
-  "expires": "2026-05-04T22:26:20+07:00",
-  "timestamp_unix": 1777904780,
-  "expires_unix": 1777908380,
-  "updated_wib": "04/05/2026 21:26 WIB",
-  "signal_id": "jamalnusantara_20260504_212620"
+  "timestamp": "2026-05-04T21:32:24+07:00",
+  "expires": "2026-05-04T22:32:24+07:00",
+  "timestamp_unix": 1777905144,
+  "expires_unix": 1777908744,
+  "updated_wib": "04/05/2026 21:32 WIB",
+  "signal_id": "jamalnusantara_20260504_213224"
 }

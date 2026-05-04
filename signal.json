@@ -6,14 +6,14 @@
   "sl": 4585,
   "tp1": 4576,
   "tp2": 4574,
-  "confidence": "MEDIUM",
+  "confidence": "HIGH",
   "source": "Golldtradersunny2",
   "method": "claude",
-  "reason": "Sinyal SELL XAUUSD dari konteks sebelumnya dengan entry range 4578-4581 (rata-rata 4579.5), SL 4585, dan TP bertingkat (4576, 4574, open). Pesan terbaru 'Gold sell now' adalah konfirmasi/reminder sinyal sebelumnya.",
-  "timestamp": "2026-05-04T15:26:42+07:00",
-  "expires": "2026-05-04T16:26:42+07:00",
-  "timestamp_unix": 1777883202,
-  "expires_unix": 1777886802,
+  "reason": "Sinyal SELL GOLD jelas dengan entry range 4578-4581 (rata-rata 4579.5), SL 4585, dan multiple TP (4576, 4574, open). Instruksi profit-taking dan breakeven management menunjukkan sinyal matang dan siap eksekusi.",
+  "timestamp": "2026-05-04T15:26:47+07:00",
+  "expires": "2026-05-04T16:26:47+07:00",
+  "timestamp_unix": 1777883207,
+  "expires_unix": 1777886807,
   "updated_wib": "04/05/2026 15:26 WIB",
-  "signal_id": "Golldtradersunny2_20260504_152642"
+  "signal_id": "Golldtradersunny2_20260504_152647"
 }

@@ -1,19 +1,19 @@
 {
   "valid": true,
   "pair": "XAUUSD",
-  "direction": "SELL",
-  "entry": 4577.0,
+  "direction": "BUY",
+  "entry": 4567.0,
   "sl": null,
   "tp1": null,
   "tp2": null,
   "confidence": "MEDIUM",
-  "source": "VVIP Syukur Sinyal 🇮🇩",
+  "source": "Golldtradersunny2",
   "method": "regex",
   "reason": "",
-  "timestamp": "2026-05-04T21:20:54+07:00",
-  "expires": "2026-05-04T22:20:54+07:00",
-  "timestamp_unix": 1777904454,
-  "expires_unix": 1777908054,
-  "updated_wib": "04/05/2026 21:20 WIB",
-  "signal_id": "VVIP Syukur Sinyal 🇮🇩_20260504_212054"
+  "timestamp": "2026-05-04T21:21:29+07:00",
+  "expires": "2026-05-04T22:21:29+07:00",
+  "timestamp_unix": 1777904489,
+  "expires_unix": 1777908089,
+  "updated_wib": "04/05/2026 21:21 WIB",
+  "signal_id": "Golldtradersunny2_20260504_212129"
 }

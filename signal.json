@@ -9,9 +9,9 @@
   "confidence": null,
   "source": null,
   "reason": "No active signal",
-  "timestamp": "2026-05-04T11:32:23+07:00",
+  "timestamp": "2026-05-04T11:32:40+07:00",
   "expires": null,
-  "timestamp_unix": 1777869143,
+  "timestamp_unix": 1777869160,
   "expires_unix": 0,
   "updated_wib": "04/05/2026 11:32 WIB",
   "signal_id": null

@@ -9,11 +9,11 @@
   "confidence": "LOW",
   "source": "VVIP Syukur Sinyal 🇮🇩",
   "method": "claude",
-  "reason": "SELL XAUUSD entry=4563 dari pesan 'GOLD SELL NOW BRO', tapi SL dan TP tidak tersedia. Gaya santai tanpa info lengkap → confidence LOW",
-  "timestamp": "2026-05-04T20:51:54+07:00",
-  "expires": "2026-05-04T21:51:54+07:00",
-  "timestamp_unix": 1777902714,
-  "expires_unix": 1777906314,
+  "reason": "SELL signal terdeteksi dari pesan 'GOLD SELL NOW GOLD SELLL', entry=4563 dari pesan sebelumnya, tapi SL dan TP tidak lengkap sehingga confidence LOW",
+  "timestamp": "2026-05-04T20:51:58+07:00",
+  "expires": "2026-05-04T21:51:58+07:00",
+  "timestamp_unix": 1777902718,
+  "expires_unix": 1777906318,
   "updated_wib": "04/05/2026 20:51 WIB",
-  "signal_id": "VVIP Syukur Sinyal 🇮🇩_20260504_205154"
+  "signal_id": "VVIP Syukur Sinyal 🇮🇩_20260504_205158"
 }

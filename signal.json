@@ -6,14 +6,14 @@
   "sl": 4558.5,
   "tp1": 4573.5,
   "tp2": 4578.5,
-  "confidence": "MEDIUM",
+  "confidence": "HIGH",
   "source": "Golldtradersunny2",
-  "method": "regex",
-  "reason": "",
-  "timestamp": "2026-05-04T20:17:34+07:00",
-  "expires": "2026-05-04T21:17:34+07:00",
-  "timestamp_unix": 1777900654,
-  "expires_unix": 1777904254,
+  "method": "claude",
+  "reason": "Sinyal BUY GOLD dengan entry, SL, dan 2 TP lengkap. Sudah mencapai TP1 (79pips) berdasarkan konteks sebelumnya, sinyal masih valid untuk reference",
+  "timestamp": "2026-05-04T20:17:38+07:00",
+  "expires": "2026-05-04T21:17:38+07:00",
+  "timestamp_unix": 1777900658,
+  "expires_unix": 1777904258,
   "updated_wib": "04/05/2026 20:17 WIB",
-  "signal_id": "Golldtradersunny2_20260504_201734"
+  "signal_id": "Golldtradersunny2_20260504_201738"
 }

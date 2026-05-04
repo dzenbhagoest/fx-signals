@@ -9,11 +9,11 @@
   "confidence": "MEDIUM",
   "source": "Golldtradersunny2",
   "method": "claude",
-  "reason": "Sinyal SELL GOLD dengan entry range 4578-4581 (rata-rata 4579.5), SL 4585, dan multiple TP (4576, 4574, open). Informasi cukup lengkap namun entry berupa range.",
-  "timestamp": "2026-05-04T15:27:19+07:00",
-  "expires": "2026-05-04T16:27:19+07:00",
-  "timestamp_unix": 1777883239,
-  "expires_unix": 1777886839,
+  "reason": "Sinyal SELL GOLD dengan entry range 4578-4581 (rata-rata 4579.5), SL 4585, dan multiple TP jelas. Pesan terbaru adalah konfirmasi ulang untuk hold/secure profit dengan risk management breakeven jika diperlukan.",
+  "timestamp": "2026-05-04T15:27:24+07:00",
+  "expires": "2026-05-04T16:27:24+07:00",
+  "timestamp_unix": 1777883244,
+  "expires_unix": 1777886844,
   "updated_wib": "04/05/2026 15:27 WIB",
-  "signal_id": "Golldtradersunny2_20260504_152719"
+  "signal_id": "Golldtradersunny2_20260504_152724"
 }

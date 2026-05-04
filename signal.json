@@ -10,10 +10,10 @@
   "source": "goldsnipers11",
   "method": "regex",
   "reason": "",
-  "timestamp": "2026-05-04T11:20:17+07:00",
-  "expires": "2026-05-04T12:20:17+07:00",
-  "timestamp_unix": 1777868417,
-  "expires_unix": 1777872017,
+  "timestamp": "2026-05-04T11:20:55+07:00",
+  "expires": "2026-05-04T12:20:55+07:00",
+  "timestamp_unix": 1777868455,
+  "expires_unix": 1777872055,
   "updated_wib": "04/05/2026 11:20 WIB",
-  "signal_id": "goldsnipers11_20260504_112017"
+  "signal_id": "goldsnipers11_20260504_112055"
 }

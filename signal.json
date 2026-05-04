@@ -2,7 +2,7 @@
   "valid": true,
   "pair": "XAUUSD",
   "direction": "BUY",
-  "entry": 4601.0,
+  "entry": 4592.0,
   "sl": null,
   "tp1": null,
   "tp2": null,
@@ -10,10 +10,10 @@
   "source": "elliotwavetommy",
   "method": "regex",
   "reason": "",
-  "timestamp": "2026-05-04T12:19:17+07:00",
-  "expires": "2026-05-04T13:19:17+07:00",
-  "timestamp_unix": 1777871957,
-  "expires_unix": 1777875557,
-  "updated_wib": "04/05/2026 12:19 WIB",
-  "signal_id": "elliotwavetommy_20260504_121917"
+  "timestamp": "2026-05-04T12:37:16+07:00",
+  "expires": "2026-05-04T13:37:16+07:00",
+  "timestamp_unix": 1777873036,
+  "expires_unix": 1777876636,
+  "updated_wib": "04/05/2026 12:37 WIB",
+  "signal_id": "elliotwavetommy_20260504_123716"
 }

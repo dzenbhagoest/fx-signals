@@ -1,19 +1,19 @@
 {
   "valid": true,
   "pair": "XAUUSD",
-  "direction": "BUY",
-  "entry": 4541.5,
+  "direction": "SELL",
+  "entry": 4546.0,
   "sl": null,
   "tp1": null,
   "tp2": null,
   "confidence": "MEDIUM",
-  "source": "elliotwavetommy",
+  "source": "lagendafullmajerin",
   "method": "regex",
   "reason": "",
-  "timestamp": "2026-05-05T14:51:37+07:00",
-  "expires": "2026-05-05T15:51:37+07:00",
-  "timestamp_unix": 1777967497,
-  "expires_unix": 1777971097,
-  "updated_wib": "05/05/2026 14:51 WIB",
-  "signal_id": "elliotwavetommy_20260505_145137"
+  "timestamp": "2026-05-05T15:02:53+07:00",
+  "expires": "2026-05-05T16:02:53+07:00",
+  "timestamp_unix": 1777968173,
+  "expires_unix": 1777971773,
+  "updated_wib": "05/05/2026 15:02 WIB",
+  "signal_id": "lagendafullmajerin_20260505_150253"
 }

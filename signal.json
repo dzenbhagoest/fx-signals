@@ -9,11 +9,11 @@
   "confidence": "MEDIUM",
   "source": "Channelbotmelia",
   "method": "claude",
-  "reason": "SELL signal dengan entry range 4555-4560 (rata-rata 4557.5), TP1 dan TP2 jelas, namun SL tidak tertera (hanya 'SL VIP'). Info lengkap kecuali SL menjadikan confidence MEDIUM.",
-  "timestamp": "2026-05-05T16:44:58+07:00",
-  "expires": "2026-05-05T17:44:58+07:00",
-  "timestamp_unix": 1777974298,
-  "expires_unix": 1777977898,
-  "updated_wib": "05/05/2026 16:44 WIB",
-  "signal_id": "Channelbotmelia_20260505_164458"
+  "reason": "Sinyal SELL dari konteks sebelumnya (4555-4560 range → 4557.5). TP1 dan TP2 jelas (4545, 4535). Pesan terbaru '4548 Go TP 1' mengkonfirmasi sinyal sedang berjalan menuju TP1. SL tidak tercantum eksplisit (hanya 'SL VIP').",
+  "timestamp": "2026-05-05T17:29:32+07:00",
+  "expires": "2026-05-05T18:29:32+07:00",
+  "timestamp_unix": 1777976972,
+  "expires_unix": 1777980572,
+  "updated_wib": "05/05/2026 17:29 WIB",
+  "signal_id": "Channelbotmelia_20260505_172932"
 }

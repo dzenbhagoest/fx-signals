@@ -9,11 +9,11 @@
   "confidence": "MEDIUM",
   "source": "SYUKURSINYAL",
   "method": "claude",
-  "reason": "Sinyal SELL GOLD dengan entry range 4669-4674 (rata-rata 4671.5), SL 4683, TP1 4664, TP2 4659. Sinyal jelas namun confidence MEDIUM karena pesan terbaru hanya 'Gold Sell Now!' tanpa detail lengkap - menggunakan konteks pesan sebelumnya.",
-  "timestamp": "2026-05-06T15:23:02+07:00",
-  "expires": "2026-05-06T16:23:02+07:00",
-  "timestamp_unix": 1778055782,
-  "expires_unix": 1778059382,
+  "reason": "Sinyal SELL dari konteks sebelumnya masih aktif (Ready Signal Round 1). Entry dihitung dari range 4669-4674 (rata-rata 4671.5). SL, TP1, TP2 lengkap. Pesan terbaru adalah konfirmasi/reminder sinyal yang sama.",
+  "timestamp": "2026-05-06T15:23:07+07:00",
+  "expires": "2026-05-06T16:23:07+07:00",
+  "timestamp_unix": 1778055787,
+  "expires_unix": 1778059387,
   "updated_wib": "06/05/2026 15:23 WIB",
-  "signal_id": "SYUKURSINYAL_20260506_152302"
+  "signal_id": "SYUKURSINYAL_20260506_152307"
 }

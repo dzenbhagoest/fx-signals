@@ -2,7 +2,7 @@
   "valid": true,
   "pair": "XAUUSD",
   "direction": "BUY",
-  "entry": 4664.0,
+  "entry": 4656.0,
   "sl": null,
   "tp1": null,
   "tp2": null,
@@ -10,10 +10,10 @@
   "source": "goldvipsignals098",
   "method": "regex",
   "reason": "",
-  "timestamp": "2026-05-06T14:02:07+07:00",
-  "expires": "2026-05-06T15:02:07+07:00",
-  "timestamp_unix": 1778050927,
-  "expires_unix": 1778054527,
+  "timestamp": "2026-05-06T14:02:10+07:00",
+  "expires": "2026-05-06T15:02:10+07:00",
+  "timestamp_unix": 1778050930,
+  "expires_unix": 1778054530,
   "updated_wib": "06/05/2026 14:02 WIB",
-  "signal_id": "goldvipsignals098_20260506_140207"
+  "signal_id": "goldvipsignals098_20260506_140210"
 }

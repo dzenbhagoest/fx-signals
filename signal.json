@@ -9,11 +9,11 @@
   "confidence": "MEDIUM",
   "source": "SYUKURSINYAL",
   "method": "claude",
-  "reason": "Sinyal SELL Gold aktif dari konteks sebelumnya dengan entry range 4669-4674 (rata-rata 4671.5), SL 4683, TP1 4664, TP2 4659. Pesan terbaru hanya konfirmasi tanpa detail baru.",
-  "timestamp": "2026-05-06T15:55:33+07:00",
-  "expires": "2026-05-06T16:55:33+07:00",
-  "timestamp_unix": 1778057733,
-  "expires_unix": 1778061333,
+  "reason": "Sinyal SELL XAUUSD dari konteks sebelumnya masih aktif (Round 1). Entry rata-rata range 4669-4674 = 4671.5, SL 4683, TP1 4664, TP2 4659. Pesan terbaru 'Ready Signal Round 1‼️' mengonfirmasi sinyal masih berlaku.",
+  "timestamp": "2026-05-06T15:55:38+07:00",
+  "expires": "2026-05-06T16:55:38+07:00",
+  "timestamp_unix": 1778057738,
+  "expires_unix": 1778061338,
   "updated_wib": "06/05/2026 15:55 WIB",
-  "signal_id": "SYUKURSINYAL_20260506_155533"
+  "signal_id": "SYUKURSINYAL_20260506_155538"
 }

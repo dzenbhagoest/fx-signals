@@ -1,19 +1,19 @@
 {
   "valid": true,
   "pair": "XAUUSD",
-  "direction": "BUY",
-  "entry": 4677.0,
+  "direction": "SELL",
+  "entry": 4679.0,
   "sl": null,
   "tp1": null,
   "tp2": null,
   "confidence": "MEDIUM",
-  "source": "SoodLayer2024",
+  "source": "VVIP Syukur Sinyal 🇮🇩",
   "method": "regex",
   "reason": "",
-  "timestamp": "2026-05-06T19:14:11+07:00",
-  "expires": "2026-05-06T20:14:11+07:00",
-  "timestamp_unix": 1778069651,
-  "expires_unix": 1778073251,
-  "updated_wib": "06/05/2026 19:14 WIB",
-  "signal_id": "SoodLayer2024_20260506_191411"
+  "timestamp": "2026-05-06T19:21:18+07:00",
+  "expires": "2026-05-06T20:21:18+07:00",
+  "timestamp_unix": 1778070078,
+  "expires_unix": 1778073678,
+  "updated_wib": "06/05/2026 19:21 WIB",
+  "signal_id": "VVIP Syukur Sinyal 🇮🇩_20260506_192118"
 }

@@ -9,11 +9,11 @@
   "confidence": "HIGH",
   "source": "GoldScalperNinja",
   "method": "claude",
-  "reason": "Sinyal SELL GOLD dengan entry range 4680-4686 (rata-rata 4683), SL 4690, TP1 4675, TP2 4670 lengkap dengan risk management yang jelas",
-  "timestamp": "2026-05-06T15:24:07+07:00",
-  "expires": "2026-05-06T16:24:07+07:00",
-  "timestamp_unix": 1778055847,
-  "expires_unix": 1778059447,
+  "reason": "Sinyal SELL GOLD dengan entry range 4680-4686 (rata-rata 4683), SL 4690, TP multiple (4675, 4670, 4660) sudah lengkap. Pesan terbaru 'Entry Again with me?' adalah konfirmasi ulang sinyal aktif yang sama.",
+  "timestamp": "2026-05-06T15:24:12+07:00",
+  "expires": "2026-05-06T16:24:12+07:00",
+  "timestamp_unix": 1778055852,
+  "expires_unix": 1778059452,
   "updated_wib": "06/05/2026 15:24 WIB",
-  "signal_id": "GoldScalperNinja_20260506_152407"
+  "signal_id": "GoldScalperNinja_20260506_152412"
 }

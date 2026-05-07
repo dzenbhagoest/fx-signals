@@ -9,11 +9,11 @@
   "confidence": "MEDIUM",
   "source": "ctleman",
   "method": "claude",
-  "reason": "BUY XAUUSD entry=4702.8 sl=4692 lengkap, tapi TP tidak spesifik (TP biru ambik = ambiguous, perlu referensi chart)",
-  "timestamp": "2026-05-07T09:23:24+07:00",
-  "expires": "2026-05-07T10:23:24+07:00",
-  "timestamp_unix": 1778120604,
-  "expires_unix": 1778124204,
-  "updated_wib": "07/05/2026 09:23 WIB",
-  "signal_id": "ctleman_20260507_092324"
+  "reason": "BUY GOLD dengan entry dan SL jelas, tapi TP tidak spesifik (hanya 'TP biru ambik' = ambiguous)",
+  "timestamp": "2026-05-07T09:43:52+07:00",
+  "expires": "2026-05-07T10:43:52+07:00",
+  "timestamp_unix": 1778121832,
+  "expires_unix": 1778125432,
+  "updated_wib": "07/05/2026 09:43 WIB",
+  "signal_id": "ctleman_20260507_094352"
 }

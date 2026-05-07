@@ -9,11 +9,11 @@
   "confidence": "MEDIUM",
   "source": "PpejuangMYR",
   "method": "claude",
-  "reason": "Sinyal SELL GOLD dari range 4696-4700 (entry rata-rata 4698), SL 4704 sudah jelas. TP belum disebutkan dalam pesan terbaru. Pesan 'Ready!' mengonfirmasi sinyal siap eksekusi.",
-  "timestamp": "2026-05-07T12:35:08+07:00",
-  "expires": "2026-05-07T13:35:08+07:00",
-  "timestamp_unix": 1778132108,
-  "expires_unix": 1778135708,
-  "updated_wib": "07/05/2026 12:35 WIB",
-  "signal_id": "PpejuangMYR_20260507_123508"
+  "reason": "SELL XAUUSD dari konteks sebelumnya dengan range entry 4696-4700 (rata-rata 4698), SL 4704. Pesan terbaru 'Gold sell now again' adalah konfirmasi sinyal aktif yang sudah ditetapkan sebelumnya.",
+  "timestamp": "2026-05-07T12:36:20+07:00",
+  "expires": "2026-05-07T13:36:20+07:00",
+  "timestamp_unix": 1778132180,
+  "expires_unix": 1778135780,
+  "updated_wib": "07/05/2026 12:36 WIB",
+  "signal_id": "PpejuangMYR_20260507_123620"
 }

@@ -9,11 +9,11 @@
   "confidence": "MEDIUM",
   "source": "Channelbotmelia",
   "method": "claude",
-  "reason": "SELL entry range 4720-4725 (rata-rata 4722.5) dengan TP1=4710 dan TP2=4700. SL tidak ada (Join VIP). Sinyal jelas tapi informasi SL tidak lengkap.",
-  "timestamp": "2026-05-08T06:45:30+07:00",
-  "expires": "2026-05-08T07:45:30+07:00",
-  "timestamp_unix": 1778197530,
-  "expires_unix": 1778201130,
-  "updated_wib": "08/05/2026 06:45 WIB",
-  "signal_id": "Channelbotmelia_20260508_064530"
+  "reason": "SELL XAUUSD dengan range entry 4720-4725 (rata-rata 4722.5), TP1=4710 dan TP2=4700. Info SL tidak lengkap (hanya 'Join VIP'), confidence MEDIUM karena missing SL.",
+  "timestamp": "2026-05-08T08:42:15+07:00",
+  "expires": "2026-05-08T09:42:15+07:00",
+  "timestamp_unix": 1778204535,
+  "expires_unix": 1778208135,
+  "updated_wib": "08/05/2026 08:42 WIB",
+  "signal_id": "Channelbotmelia_20260508_084215"
 }

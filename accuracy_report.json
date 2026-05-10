@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-09T07:25:15+07:00",
-  "generated_wib": "09/05/2026 07:25 WIB",
+  "generated_at": "2026-05-10T07:39:02+07:00",
+  "generated_wib": "10/05/2026 07:39 WIB",
   "total_channels": 30,
-  "total_signals": 874,
-  "total_resolved": 874,
+  "total_signals": 875,
+  "total_resolved": 875,
   "channel_ranking": [
     {
       "rank": 1,
@@ -145,7 +145,7 @@
       "channel": "ctleman",
       "accuracy_pct": 0.0,
       "net_pips": 0.0,
-      "total_signal": 33,
+      "total_signal": 34,
       "rating": "⚠️ Below average",
       "expectancy": 0.0
     },
@@ -2314,20 +2314,20 @@
       "rating": "⚠️ Below average"
     },
     "ctleman": {
-      "total_signal": 33,
+      "total_signal": 34,
       "total_executed": 0,
-      "total_resolved": 33,
+      "total_resolved": 34,
       "tp_hit": 0,
       "sl_hit": 0,
       "manual_close": 0,
-      "expired": 33,
+      "expired": 34,
       "pending": 0,
       "total_pips": 0.0,
       "win_pips": 0.0,
       "loss_pips": 0.0,
       "by_pair": {
         "XAUUSD": {
-          "total": 33,
+          "total": 34,
           "win": 0,
           "loss": 0
         }
@@ -2338,7 +2338,7 @@
           "win": 0
         },
         "MEDIUM": {
-          "total": 33,
+          "total": 34,
           "win": 0
         },
         "LOW": {
@@ -2347,13 +2347,6 @@
         }
       },
       "recent_results": [
-        {
-          "time": "2026-05-07T19:49",
-          "pair": "XAUUSD",
-          "direction": "BUY",
-          "result": "EXPIRED",
-          "pips": 0
-        },
         {
           "time": "2026-05-07T19:58",
           "pair": "XAUUSD",
@@ -2412,6 +2405,13 @@
         },
         {
           "time": "2026-05-08T20:47",
+          "pair": "XAUUSD",
+          "direction": "BUY",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-05-09T12:16",
           "pair": "XAUUSD",
           "direction": "BUY",
           "result": "EXPIRED",

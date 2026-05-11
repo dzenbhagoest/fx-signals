@@ -10,10 +10,10 @@
   "source": "jamalnusantara",
   "method": "regex",
   "reason": "",
-  "timestamp": "2026-05-11T21:22:19+07:00",
-  "expires": "2026-05-11T22:22:19+07:00",
-  "timestamp_unix": 1778509339,
-  "expires_unix": 1778512939,
-  "updated_wib": "11/05/2026 21:22 WIB",
-  "signal_id": "jamalnusantara_20260511_212219"
+  "timestamp": "2026-05-11T21:24:43+07:00",
+  "expires": "2026-05-11T22:24:43+07:00",
+  "timestamp_unix": 1778509483,
+  "expires_unix": 1778513083,
+  "updated_wib": "11/05/2026 21:24 WIB",
+  "signal_id": "jamalnusantara_20260511_212443"
 }

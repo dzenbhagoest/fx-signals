@@ -9,11 +9,11 @@
   "confidence": "HIGH",
   "source": "VVIP Syukur Sinyal 🇮🇩",
   "method": "claude",
-  "reason": "Sinyal BUY LIMIT XAUUSD dengan entry, SL, TP1, TP2 lengkap dan jelas. Format terstruktur, pesan terbaru aktif",
-  "timestamp": "2026-05-12T01:33:11+07:00",
-  "expires": "2026-05-12T02:33:11+07:00",
-  "timestamp_unix": 1778524391,
-  "expires_unix": 1778527991,
+  "reason": "Sinyal BUY LIMIT XAUUSD dengan entry, SL, TP1, TP2 lengkap dan jelas. Format terstruktur dengan risk/reward ratio 50:50:100 pips",
+  "timestamp": "2026-05-12T01:33:18+07:00",
+  "expires": "2026-05-12T02:33:18+07:00",
+  "timestamp_unix": 1778524398,
+  "expires_unix": 1778527998,
   "updated_wib": "12/05/2026 01:33 WIB",
-  "signal_id": "VVIP Syukur Sinyal 🇮🇩_20260512_013311"
+  "signal_id": "VVIP Syukur Sinyal 🇮🇩_20260512_013318"
 }

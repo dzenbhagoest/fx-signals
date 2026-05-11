@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-10T07:39:02+07:00",
-  "generated_wib": "10/05/2026 07:39 WIB",
+  "generated_at": "2026-05-11T07:39:03+07:00",
+  "generated_wib": "11/05/2026 07:39 WIB",
   "total_channels": 30,
-  "total_signals": 875,
-  "total_resolved": 875,
+  "total_signals": 877,
+  "total_resolved": 876,
   "channel_ranking": [
     {
       "rank": 1,
@@ -19,7 +19,7 @@
       "channel": "Golldtradersunny2",
       "accuracy_pct": 0.0,
       "net_pips": 0.0,
-      "total_signal": 212,
+      "total_signal": 213,
       "rating": "⚠️ Below average",
       "expectancy": 0.0
     },
@@ -283,20 +283,20 @@
       "rating": "⚠️ Below average"
     },
     "Golldtradersunny2": {
-      "total_signal": 212,
+      "total_signal": 213,
       "total_executed": 0,
       "total_resolved": 212,
       "tp_hit": 0,
       "sl_hit": 0,
       "manual_close": 0,
       "expired": 212,
-      "pending": 0,
+      "pending": 1,
       "total_pips": 0.0,
       "win_pips": 0.0,
       "loss_pips": 0.0,
       "by_pair": {
         "XAUUSD": {
-          "total": 210,
+          "total": 211,
           "win": 0,
           "loss": 0
         },
@@ -312,7 +312,7 @@
           "win": 0
         },
         "MEDIUM": {
-          "total": 185,
+          "total": 186,
           "win": 0
         },
         "LOW": {
@@ -1141,13 +1141,13 @@
       "rating": "⚠️ Below average"
     },
     "Gold Signals VIP (XAUUSD FOREX)": {
-      "total_signal": 6,
+      "total_signal": 7,
       "total_executed": 0,
-      "total_resolved": 6,
+      "total_resolved": 7,
       "tp_hit": 0,
       "sl_hit": 0,
       "manual_close": 0,
-      "expired": 6,
+      "expired": 7,
       "pending": 0,
       "total_pips": 0.0,
       "win_pips": 0.0,
@@ -1155,6 +1155,11 @@
       "by_pair": {
         "XAUUSD": {
           "total": 6,
+          "win": 0,
+          "loss": 0
+        },
+        "BTCUSD": {
+          "total": 1,
           "win": 0,
           "loss": 0
         }
@@ -1165,7 +1170,7 @@
           "win": 0
         },
         "MEDIUM": {
-          "total": 4,
+          "total": 5,
           "win": 0
         },
         "LOW": {
@@ -1212,6 +1217,13 @@
         {
           "time": "2026-05-08T17:05",
           "pair": "XAUUSD",
+          "direction": "BUY",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-05-10T17:37",
+          "pair": "BTCUSD",
           "direction": "BUY",
           "result": "EXPIRED",
           "pips": 0

@@ -9,11 +9,11 @@
   "confidence": "HIGH",
   "source": "VVIP Syukur Sinyal 🇮🇩",
   "method": "claude",
-  "reason": "BUY LIMIT signal dengan entry, SL, TP1, TP2 lengkap. Struktur sinyal jelas dan konsisten dengan pesan sebelumnya.",
-  "timestamp": "2026-05-12T01:35:17+07:00",
-  "expires": "2026-05-12T02:35:17+07:00",
-  "timestamp_unix": 1778524517,
-  "expires_unix": 1778528117,
+  "reason": "BUY LIMIT sinyal aktif dengan entry, SL, dan 2 TP lengkap. Risk/reward ratio konsisten (50 pips SL, 50 pips TP1, 100 pips TP2). Format rapi dan terstruktur.",
+  "timestamp": "2026-05-12T01:35:22+07:00",
+  "expires": "2026-05-12T02:35:22+07:00",
+  "timestamp_unix": 1778524522,
+  "expires_unix": 1778528122,
   "updated_wib": "12/05/2026 01:35 WIB",
-  "signal_id": "VVIP Syukur Sinyal 🇮🇩_20260512_013517"
+  "signal_id": "VVIP Syukur Sinyal 🇮🇩_20260512_013522"
 }

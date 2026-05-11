@@ -1,8 +1,8 @@
 {
   "valid": true,
   "pair": "XAUUSD",
-  "direction": "SELL",
-  "entry": 4703.0,
+  "direction": "BUY",
+  "entry": 4692.0,
   "sl": null,
   "tp1": null,
   "tp2": null,
@@ -10,10 +10,10 @@
   "source": "VVIP Syukur Sinyal 🇮🇩",
   "method": "regex",
   "reason": "",
-  "timestamp": "2026-05-11T20:11:38+07:00",
-  "expires": "2026-05-11T21:11:38+07:00",
-  "timestamp_unix": 1778505098,
-  "expires_unix": 1778508698,
+  "timestamp": "2026-05-11T20:11:41+07:00",
+  "expires": "2026-05-11T21:11:41+07:00",
+  "timestamp_unix": 1778505101,
+  "expires_unix": 1778508701,
   "updated_wib": "11/05/2026 20:11 WIB",
-  "signal_id": "VVIP Syukur Sinyal 🇮🇩_20260511_201138"
+  "signal_id": "VVIP Syukur Sinyal 🇮🇩_20260511_201141"
 }

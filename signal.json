@@ -10,10 +10,10 @@
   "source": "NAS100XAUUSDUS30PIPS",
   "method": "regex",
   "reason": "",
-  "timestamp": "2026-05-12T17:10:51+07:00",
-  "expires": "2026-05-12T18:10:51+07:00",
-  "timestamp_unix": 1778580651,
-  "expires_unix": 1778584251,
-  "updated_wib": "12/05/2026 17:10 WIB",
-  "signal_id": "NAS100XAUUSDUS30PIPS_20260512_171051"
+  "timestamp": "2026-05-12T17:11:20+07:00",
+  "expires": "2026-05-12T18:11:20+07:00",
+  "timestamp_unix": 1778580680,
+  "expires_unix": 1778584280,
+  "updated_wib": "12/05/2026 17:11 WIB",
+  "signal_id": "NAS100XAUUSDUS30PIPS_20260512_171120"
 }

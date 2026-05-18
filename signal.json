@@ -10,10 +10,10 @@
   "source": "goldvipsignals098",
   "method": "regex",
   "reason": "",
-  "timestamp": "2026-05-18T10:09:17+07:00",
-  "expires": "2026-05-18T11:09:17+07:00",
-  "timestamp_unix": 1779073757,
-  "expires_unix": 1779077357,
+  "timestamp": "2026-05-18T10:09:54+07:00",
+  "expires": "2026-05-18T11:09:54+07:00",
+  "timestamp_unix": 1779073794,
+  "expires_unix": 1779077394,
   "updated_wib": "18/05/2026 10:09 WIB",
-  "signal_id": "goldvipsignals098_20260518_100917"
+  "signal_id": "goldvipsignals098_20260518_100954"
 }

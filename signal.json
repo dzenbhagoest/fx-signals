@@ -9,11 +9,11 @@
   "confidence": "MEDIUM",
   "source": "jamalnusantara",
   "method": "claude",
-  "reason": "Sinyal BUY XAUUSD dari konteks sebelumnya (4548-4542 range = 4545 entry) dengan SL 4537 dan TP 4555 masih aktif. Pesan 'gold buy now' adalah konfirmasi untuk entry zona tersebut. Info lengkap entry+SL+TP1 tersedia.",
-  "timestamp": "2026-05-19T10:14:48+07:00",
-  "expires": "2026-05-19T11:14:48+07:00",
-  "timestamp_unix": 1779160488,
-  "expires_unix": 1779164088,
-  "updated_wib": "19/05/2026 10:14 WIB",
-  "signal_id": "jamalnusantara_20260519_101448"
+  "reason": "Sinyal BUY GOLD dari konteks sebelumnya (4548-4542 range = 4545 entry), SL 4537 dan TP 4555 masih valid. Pesan 'gold buy now' adalah konfirmasi ulang sinyal. Sinyal masih active (belum ada DONE/HIT confirmation).",
+  "timestamp": "2026-05-19T11:19:04+07:00",
+  "expires": "2026-05-19T12:19:04+07:00",
+  "timestamp_unix": 1779164344,
+  "expires_unix": 1779167944,
+  "updated_wib": "19/05/2026 11:19 WIB",
+  "signal_id": "jamalnusantara_20260519_111904"
 }

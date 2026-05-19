@@ -7,13 +7,13 @@
   "tp1": null,
   "tp2": null,
   "confidence": "MEDIUM",
-  "source": "SoodLayer2024",
+  "source": "RajaScalperAlang77",
   "method": "regex",
   "reason": "",
-  "timestamp": "2026-05-19T14:36:38+07:00",
-  "expires": "2026-05-19T15:36:38+07:00",
-  "timestamp_unix": 1779176198,
-  "expires_unix": 1779179798,
-  "updated_wib": "19/05/2026 14:36 WIB",
-  "signal_id": "SoodLayer2024_20260519_143638"
+  "timestamp": "2026-05-19T14:40:40+07:00",
+  "expires": "2026-05-19T15:40:40+07:00",
+  "timestamp_unix": 1779176440,
+  "expires_unix": 1779180040,
+  "updated_wib": "19/05/2026 14:40 WIB",
+  "signal_id": "RajaScalperAlang77_20260519_144040"
 }

@@ -1,19 +1,19 @@
 {
   "valid": true,
   "pair": "XAUUSD",
-  "direction": "SELL",
-  "entry": 4484.4,
-  "sl": 4493.4,
+  "direction": "BUY",
+  "entry": 4484.0,
+  "sl": 4478.0,
   "tp1": null,
   "tp2": null,
   "confidence": "MEDIUM",
   "source": "Golldtradersunny2",
   "method": "regex",
   "reason": "",
-  "timestamp": "2026-05-20T14:51:33+07:00",
-  "expires": "2026-05-20T15:51:33+07:00",
-  "timestamp_unix": 1779263493,
-  "expires_unix": 1779267093,
-  "updated_wib": "20/05/2026 14:51 WIB",
-  "signal_id": "Golldtradersunny2_20260520_145133"
+  "timestamp": "2026-05-20T15:36:05+07:00",
+  "expires": "2026-05-20T16:36:05+07:00",
+  "timestamp_unix": 1779266165,
+  "expires_unix": 1779269765,
+  "updated_wib": "20/05/2026 15:36 WIB",
+  "signal_id": "Golldtradersunny2_20260520_153605"
 }

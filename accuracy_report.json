@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-21T07:14:59+07:00",
-  "generated_wib": "21/05/2026 07:14 WIB",
+  "generated_at": "2026-05-22T07:15:02+07:00",
+  "generated_wib": "22/05/2026 07:15 WIB",
   "total_channels": 34,
-  "total_signals": 1378,
-  "total_resolved": 1378,
+  "total_signals": 1389,
+  "total_resolved": 1388,
   "channel_ranking": [
     {
       "rank": 1,
@@ -19,7 +19,7 @@
       "channel": "Golldtradersunny2",
       "accuracy_pct": 0.0,
       "net_pips": 0.0,
-      "total_signal": 324,
+      "total_signal": 325,
       "rating": "⚠️ Below average",
       "expectancy": 0.0
     },
@@ -46,7 +46,7 @@
       "channel": "RajaScalperAlang77",
       "accuracy_pct": 0.0,
       "net_pips": 0.0,
-      "total_signal": 21,
+      "total_signal": 22,
       "rating": "⚠️ Below average",
       "expectancy": 0.0
     },
@@ -73,7 +73,7 @@
       "channel": "forexsignalsxauusd",
       "accuracy_pct": 0.0,
       "net_pips": 0.0,
-      "total_signal": 45,
+      "total_signal": 48,
       "rating": "⚠️ Below average",
       "expectancy": 0.0
     },
@@ -100,7 +100,7 @@
       "channel": "elliotwavetommy",
       "accuracy_pct": 0.0,
       "net_pips": 0.0,
-      "total_signal": 26,
+      "total_signal": 27,
       "rating": "⚠️ Below average",
       "expectancy": 0.0
     },
@@ -154,7 +154,7 @@
       "channel": "TEAM LOVE BIRU 💙💙💙",
       "accuracy_pct": 0.0,
       "net_pips": 0.0,
-      "total_signal": 32,
+      "total_signal": 34,
       "rating": "⚠️ Below average",
       "expectancy": 0.0
     },
@@ -208,7 +208,7 @@
       "channel": "SoodLayer2024",
       "accuracy_pct": 0.0,
       "net_pips": 0.0,
-      "total_signal": 28,
+      "total_signal": 30,
       "rating": "⚠️ Below average",
       "expectancy": 0.0
     },
@@ -337,20 +337,20 @@
       "rating": "⚠️ Below average"
     },
     "Golldtradersunny2": {
-      "total_signal": 324,
+      "total_signal": 325,
       "total_executed": 0,
-      "total_resolved": 324,
+      "total_resolved": 325,
       "tp_hit": 0,
       "sl_hit": 0,
       "manual_close": 0,
-      "expired": 324,
+      "expired": 325,
       "pending": 0,
       "total_pips": 0.0,
       "win_pips": 0.0,
       "loss_pips": 0.0,
       "by_pair": {
         "XAUUSD": {
-          "total": 320,
+          "total": 321,
           "win": 0,
           "loss": 0
         },
@@ -366,7 +366,7 @@
           "win": 0
         },
         "MEDIUM": {
-          "total": 292,
+          "total": 293,
           "win": 0
         },
         "LOW": {
@@ -375,13 +375,6 @@
         }
       },
       "recent_results": [
-        {
-          "time": "2026-05-19T14:44",
-          "pair": "XAUUSD",
-          "direction": "BUY",
-          "result": "EXPIRED",
-          "pips": 0
-        },
         {
           "time": "2026-05-19T14:44",
           "pair": "XAUUSD",
@@ -440,6 +433,13 @@
         },
         {
           "time": "2026-05-20T22:07",
+          "pair": "XAUUSD",
+          "direction": "SELL",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-05-21T15:21",
           "pair": "XAUUSD",
           "direction": "SELL",
           "result": "EXPIRED",
@@ -686,20 +686,20 @@
       "rating": "⚠️ Below average"
     },
     "RajaScalperAlang77": {
-      "total_signal": 21,
+      "total_signal": 22,
       "total_executed": 0,
-      "total_resolved": 21,
+      "total_resolved": 22,
       "tp_hit": 0,
       "sl_hit": 0,
       "manual_close": 0,
-      "expired": 21,
+      "expired": 22,
       "pending": 0,
       "total_pips": 0.0,
       "win_pips": 0.0,
       "loss_pips": 0.0,
       "by_pair": {
         "XAUUSD": {
-          "total": 21,
+          "total": 22,
           "win": 0,
           "loss": 0
         }
@@ -710,7 +710,7 @@
           "win": 0
         },
         "MEDIUM": {
-          "total": 12,
+          "total": 13,
           "win": 0
         },
         "LOW": {
@@ -719,13 +719,6 @@
         }
       },
       "recent_results": [
-        {
-          "time": "2026-05-11T17:27",
-          "pair": "XAUUSD",
-          "direction": "SELL",
-          "result": "EXPIRED",
-          "pips": 0
-        },
         {
           "time": "2026-05-11T18:30",
           "pair": "XAUUSD",
@@ -784,6 +777,13 @@
         },
         {
           "time": "2026-05-19T14:40",
+          "pair": "XAUUSD",
+          "direction": "BUY",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-05-21T15:48",
           "pair": "XAUUSD",
           "direction": "BUY",
           "result": "EXPIRED",
@@ -1025,20 +1025,20 @@
       "rating": "⚠️ Below average"
     },
     "🏛️ XAUHQ | THE HEADQUARTERS": {
-      "total_signal": 8,
+      "total_signal": 9,
       "total_executed": 0,
-      "total_resolved": 8,
+      "total_resolved": 9,
       "tp_hit": 0,
       "sl_hit": 0,
       "manual_close": 0,
-      "expired": 8,
+      "expired": 9,
       "pending": 0,
       "total_pips": 0.0,
       "win_pips": 0.0,
       "loss_pips": 0.0,
       "by_pair": {
         "XAUUSD": {
-          "total": 8,
+          "total": 9,
           "win": 0,
           "loss": 0
         }
@@ -1049,7 +1049,7 @@
           "win": 0
         },
         "MEDIUM": {
-          "total": 8,
+          "total": 9,
           "win": 0
         },
         "LOW": {
@@ -1113,6 +1113,13 @@
           "direction": "SELL",
           "result": "EXPIRED",
           "pips": 0
+        },
+        {
+          "time": "2026-05-22T00:12",
+          "pair": "XAUUSD",
+          "direction": "BUY",
+          "result": "EXPIRED",
+          "pips": 0
         }
       ],
       "accuracy_pct": 0.0,
@@ -1124,20 +1131,20 @@
       "rating": "❓ Data kurang (<10 sinyal)"
     },
     "forexsignalsxauusd": {
-      "total_signal": 45,
+      "total_signal": 48,
       "total_executed": 0,
-      "total_resolved": 45,
+      "total_resolved": 47,
       "tp_hit": 0,
       "sl_hit": 0,
       "manual_close": 0,
-      "expired": 45,
-      "pending": 0,
+      "expired": 47,
+      "pending": 1,
       "total_pips": 0.0,
       "win_pips": 0.0,
       "loss_pips": 0.0,
       "by_pair": {
         "XAUUSD": {
-          "total": 45,
+          "total": 48,
           "win": 0,
           "loss": 0
         }
@@ -1148,7 +1155,7 @@
           "win": 0
         },
         "MEDIUM": {
-          "total": 42,
+          "total": 45,
           "win": 0
         },
         "LOW": {
@@ -1157,20 +1164,6 @@
         }
       },
       "recent_results": [
-        {
-          "time": "2026-05-12T11:50",
-          "pair": "XAUUSD",
-          "direction": "BUY",
-          "result": "EXPIRED",
-          "pips": 0
-        },
-        {
-          "time": "2026-05-12T20:15",
-          "pair": "XAUUSD",
-          "direction": "SELL",
-          "result": "EXPIRED",
-          "pips": 0
-        },
         {
           "time": "2026-05-12T21:47",
           "pair": "XAUUSD",
@@ -1222,6 +1215,20 @@
         },
         {
           "time": "2026-05-19T22:02",
+          "pair": "XAUUSD",
+          "direction": "SELL",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-05-21T15:47",
+          "pair": "XAUUSD",
+          "direction": "SELL",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-05-21T18:32",
           "pair": "XAUUSD",
           "direction": "SELL",
           "result": "EXPIRED",
@@ -1560,20 +1567,20 @@
       "rating": "❓ Data kurang (<10 sinyal)"
     },
     "elliotwavetommy": {
-      "total_signal": 26,
+      "total_signal": 27,
       "total_executed": 0,
-      "total_resolved": 26,
+      "total_resolved": 27,
       "tp_hit": 0,
       "sl_hit": 0,
       "manual_close": 0,
-      "expired": 26,
+      "expired": 27,
       "pending": 0,
       "total_pips": 0.0,
       "win_pips": 0.0,
       "loss_pips": 0.0,
       "by_pair": {
         "XAUUSD": {
-          "total": 26,
+          "total": 27,
           "win": 0,
           "loss": 0
         }
@@ -1584,7 +1591,7 @@
           "win": 0
         },
         "MEDIUM": {
-          "total": 26,
+          "total": 27,
           "win": 0
         },
         "LOW": {
@@ -1593,13 +1600,6 @@
         }
       },
       "recent_results": [
-        {
-          "time": "2026-05-05T14:51",
-          "pair": "XAUUSD",
-          "direction": "BUY",
-          "result": "EXPIRED",
-          "pips": 0
-        },
         {
           "time": "2026-05-05T20:15",
           "pair": "XAUUSD",
@@ -1658,6 +1658,13 @@
         },
         {
           "time": "2026-05-19T14:42",
+          "pair": "XAUUSD",
+          "direction": "BUY",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-05-21T14:32",
           "pair": "XAUUSD",
           "direction": "BUY",
           "result": "EXPIRED",
@@ -2238,20 +2245,20 @@
       "rating": "⚠️ Below average"
     },
     "TEAM LOVE BIRU 💙💙💙": {
-      "total_signal": 32,
+      "total_signal": 34,
       "total_executed": 0,
-      "total_resolved": 32,
+      "total_resolved": 34,
       "tp_hit": 0,
       "sl_hit": 0,
       "manual_close": 0,
-      "expired": 32,
+      "expired": 34,
       "pending": 0,
       "total_pips": 0.0,
       "win_pips": 0.0,
       "loss_pips": 0.0,
       "by_pair": {
         "XAUUSD": {
-          "total": 32,
+          "total": 34,
           "win": 0,
           "loss": 0
         }
@@ -2262,7 +2269,7 @@
           "win": 0
         },
         "MEDIUM": {
-          "total": 26,
+          "total": 28,
           "win": 0
         },
         "LOW": {
@@ -2271,20 +2278,6 @@
         }
       },
       "recent_results": [
-        {
-          "time": "2026-05-12T19:35",
-          "pair": "XAUUSD",
-          "direction": "BUY",
-          "result": "EXPIRED",
-          "pips": 0
-        },
-        {
-          "time": "2026-05-13T18:27",
-          "pair": "XAUUSD",
-          "direction": "BUY",
-          "result": "EXPIRED",
-          "pips": 0
-        },
         {
           "time": "2026-05-13T19:33",
           "pair": "XAUUSD",
@@ -2336,6 +2329,20 @@
         },
         {
           "time": "2026-05-20T21:25",
+          "pair": "XAUUSD",
+          "direction": "SELL",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-05-21T18:32",
+          "pair": "XAUUSD",
+          "direction": "BUY",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-05-21T20:04",
           "pair": "XAUUSD",
           "direction": "SELL",
           "result": "EXPIRED",
@@ -3016,20 +3023,20 @@
       "rating": "⚠️ Below average"
     },
     "SoodLayer2024": {
-      "total_signal": 28,
+      "total_signal": 30,
       "total_executed": 0,
-      "total_resolved": 28,
+      "total_resolved": 30,
       "tp_hit": 0,
       "sl_hit": 0,
       "manual_close": 0,
-      "expired": 28,
+      "expired": 30,
       "pending": 0,
       "total_pips": 0.0,
       "win_pips": 0.0,
       "loss_pips": 0.0,
       "by_pair": {
         "XAUUSD": {
-          "total": 28,
+          "total": 30,
           "win": 0,
           "loss": 0
         }
@@ -3040,7 +3047,7 @@
           "win": 0
         },
         "MEDIUM": {
-          "total": 28,
+          "total": 30,
           "win": 0
         },
         "LOW": {
@@ -3049,20 +3056,6 @@
         }
       },
       "recent_results": [
-        {
-          "time": "2026-05-14T21:13",
-          "pair": "XAUUSD",
-          "direction": "SELL",
-          "result": "EXPIRED",
-          "pips": 0
-        },
-        {
-          "time": "2026-05-18T17:05",
-          "pair": "XAUUSD",
-          "direction": "BUY",
-          "result": "EXPIRED",
-          "pips": 0
-        },
         {
           "time": "2026-05-18T17:51",
           "pair": "XAUUSD",
@@ -3116,6 +3109,20 @@
           "time": "2026-05-20T21:56",
           "pair": "XAUUSD",
           "direction": "SELL",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-05-21T17:31",
+          "pair": "XAUUSD",
+          "direction": "BUY",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-05-21T21:21",
+          "pair": "XAUUSD",
+          "direction": "BUY",
           "result": "EXPIRED",
           "pips": 0
         }

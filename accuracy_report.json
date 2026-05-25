@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-24T07:32:08+07:00",
-  "generated_wib": "24/05/2026 07:32 WIB",
+  "generated_at": "2026-05-25T07:32:11+07:00",
+  "generated_wib": "25/05/2026 07:32 WIB",
   "total_channels": 34,
-  "total_signals": 1410,
+  "total_signals": 1411,
   "total_resolved": 1410,
   "channel_ranking": [
     {
@@ -19,7 +19,7 @@
       "channel": "Golldtradersunny2",
       "accuracy_pct": 0.0,
       "net_pips": 0.0,
-      "total_signal": 339,
+      "total_signal": 340,
       "rating": "⚠️ Below average",
       "expectancy": 0.0
     },
@@ -346,20 +346,20 @@
       "rating": "⚠️ Below average"
     },
     "Golldtradersunny2": {
-      "total_signal": 339,
+      "total_signal": 340,
       "total_executed": 0,
       "total_resolved": 339,
       "tp_hit": 0,
       "sl_hit": 0,
       "manual_close": 0,
       "expired": 339,
-      "pending": 0,
+      "pending": 1,
       "total_pips": 0.0,
       "win_pips": 0.0,
       "loss_pips": 0.0,
       "by_pair": {
         "XAUUSD": {
-          "total": 335,
+          "total": 336,
           "win": 0,
           "loss": 0
         },
@@ -375,7 +375,7 @@
           "win": 0
         },
         "MEDIUM": {
-          "total": 305,
+          "total": 306,
           "win": 0
         },
         "LOW": {

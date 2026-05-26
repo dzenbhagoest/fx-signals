@@ -1,12 +1,17 @@
 {
-     "valid": false,
-     "pair": null,
-     "direction": null,
-     "entry": null,
-     "sl": null,
-     "tp1": null,
-     "confidence": null,
-     "source_tag": null,
-     "received_at": null,
-     "reason": "Initial placeholder, awaiting first webhook"
-   }
+  "valid": true,
+  "pair": "XAGUSD",
+  "direction": "SELL",
+  "entry": 76.007,
+  "sl": 76.009,
+  "tp1": 75.997,
+  "confidence": "HIGH",
+  "source": "ICT_M15",
+  "signal_id": "ICT_M15_1779796802150",
+  "expires_unix": 1779798002,
+  "received_at": "2026-05-26T12:00:02.150Z",
+  "received_unix": 1779796802,
+  "received_wib": "26/05/2026 19:00 WIB",
+  "worker_source": "ict",
+  "source_tag_original": "ICT_M15"
+}

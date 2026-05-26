@@ -1,12 +1,13 @@
 {
-     "valid": false,
-     "pair": null,
-     "direction": null,
-     "entry": null,
-     "sl": null,
-     "tp1": null,
-     "confidence": null,
-     "source_tag": null,
-     "received_at": null,
-     "reason": "Initial placeholder, awaiting first webhook"
-   }
+  "pair": "XAUUSD",
+  "direction": "BUY",
+  "entry": 4567.5,
+  "sl": 0,
+  "tp1": 0,
+  "confidence": "MEDIUM",
+  "source_tag": "UTBOT_M15",
+  "valid": true,
+  "received_at": "2026-05-26T04:11:01.430Z",
+  "received_wib": "26/05/2026 11:11 WIB",
+  "worker_source": "utbot"
+}

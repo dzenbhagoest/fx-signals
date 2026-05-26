@@ -1,12 +1,17 @@
 {
-     "valid": false,
-     "pair": null,
-     "direction": null,
-     "entry": null,
-     "sl": null,
-     "tp1": null,
-     "confidence": null,
-     "source_tag": null,
-     "received_at": null,
-     "reason": "Initial placeholder, awaiting first webhook"
-   }
+  "valid": true,
+  "pair": "XRPUSD",
+  "direction": "SELL",
+  "entry": 1.3391,
+  "sl": 1.3424,
+  "tp1": 1.3325,
+  "confidence": "MEDIUM",
+  "source": "PMAX_M15",
+  "signal_id": "PMAX_M15_1779781508447",
+  "expires_unix": 1779782708,
+  "received_at": "2026-05-26T07:45:08.447Z",
+  "received_unix": 1779781508,
+  "received_wib": "26/05/2026 14:45 WIB",
+  "worker_source": "pmax",
+  "source_tag_original": "PMAX_M15"
+}

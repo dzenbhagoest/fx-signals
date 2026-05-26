@@ -1,0 +1,12 @@
+{
+     "valid": false,
+     "pair": null,
+     "direction": null,
+     "entry": null,
+     "sl": null,
+     "tp1": null,
+     "confidence": null,
+     "source_tag": null,
+     "received_at": null,
+     "reason": "Initial placeholder, awaiting first webhook"
+   }

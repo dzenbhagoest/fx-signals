@@ -1,13 +1,17 @@
 {
-  "pair": "XAUUSD",
-  "direction": "SELL",
-  "entry": 4525.65,
-  "sl": 4526.65,
-  "tp1": 4518.65,
-  "confidence": "HIGH",
-  "source_tag": "LIQSWEEP_M15",
   "valid": true,
-  "received_at": "2026-05-26T05:00:15.302Z",
-  "received_wib": "26/05/2026 12:00 WIB",
-  "worker_source": "liquidity"
+  "pair": "XAGUSD",
+  "direction": "SELL",
+  "entry": 76.1925,
+  "sl": 76.1935,
+  "tp1": 76.1855,
+  "confidence": "HIGH",
+  "source": "LIQSWEEP_M15",
+  "signal_id": "LIQSWEEP_M15_1779784207614",
+  "expires_unix": 1779785407,
+  "received_at": "2026-05-26T08:30:07.614Z",
+  "received_unix": 1779784207,
+  "received_wib": "26/05/2026 15:30 WIB",
+  "worker_source": "liquidity",
+  "source_tag_original": "LIQSWEEP_M15"
 }

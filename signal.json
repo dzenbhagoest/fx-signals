@@ -10,10 +10,10 @@
   "source": "SoodLayer2024",
   "method": "regex",
   "reason": "",
-  "timestamp": "2026-06-01T15:38:58+07:00",
-  "expires": "2026-06-01T16:38:58+07:00",
-  "timestamp_unix": 1780303138,
-  "expires_unix": 1780306738,
-  "updated_wib": "01/06/2026 15:38 WIB",
-  "signal_id": "SoodLayer2024_20260601_153858"
+  "timestamp": "2026-06-01T15:53:05+07:00",
+  "expires": "2026-06-01T16:53:05+07:00",
+  "timestamp_unix": 1780303985,
+  "expires_unix": 1780307585,
+  "updated_wib": "01/06/2026 15:53 WIB",
+  "signal_id": "SoodLayer2024_20260601_155305"
 }

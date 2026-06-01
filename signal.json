@@ -2,7 +2,7 @@
   "valid": true,
   "pair": "XAUUSD",
   "direction": "BUY",
-  "entry": 4496.5,
+  "entry": 4495.5,
   "sl": 4490.0,
   "tp1": null,
   "tp2": null,
@@ -10,10 +10,10 @@
   "source": "SoodLayer2024",
   "method": "regex",
   "reason": "",
-  "timestamp": "2026-06-01T19:58:40+07:00",
-  "expires": "2026-06-01T20:58:40+07:00",
-  "timestamp_unix": 1780318720,
-  "expires_unix": 1780322320,
-  "updated_wib": "01/06/2026 19:58 WIB",
-  "signal_id": "SoodLayer2024_20260601_195840"
+  "timestamp": "2026-06-01T20:07:55+07:00",
+  "expires": "2026-06-01T21:07:55+07:00",
+  "timestamp_unix": 1780319275,
+  "expires_unix": 1780322875,
+  "updated_wib": "01/06/2026 20:07 WIB",
+  "signal_id": "SoodLayer2024_20260601_200755"
 }

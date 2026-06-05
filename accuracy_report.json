@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-04T07:53:14+07:00",
-  "generated_wib": "04/06/2026 07:53 WIB",
+  "generated_at": "2026-06-05T07:42:18+07:00",
+  "generated_wib": "05/06/2026 07:42 WIB",
   "total_channels": 34,
   "total_signals": 1493,
-  "total_resolved": 1492,
+  "total_resolved": 1493,
   "channel_ranking": [
     {
       "rank": 1,
@@ -1036,12 +1036,12 @@
     "🏛️ XAUHQ | THE HEADQUARTERS": {
       "total_signal": 19,
       "total_executed": 0,
-      "total_resolved": 18,
+      "total_resolved": 19,
       "tp_hit": 0,
       "sl_hit": 0,
       "manual_close": 0,
-      "expired": 18,
-      "pending": 1,
+      "expired": 19,
+      "pending": 0,
       "total_pips": 0.0,
       "win_pips": 0.0,
       "loss_pips": 0.0,
@@ -1067,13 +1067,6 @@
         }
       },
       "recent_results": [
-        {
-          "time": "2026-05-22T00:12",
-          "pair": "XAUUSD",
-          "direction": "BUY",
-          "result": "EXPIRED",
-          "pips": 0
-        },
         {
           "time": "2026-05-22T09:03",
           "pair": "XAUUSD",
@@ -1134,6 +1127,13 @@
           "time": "2026-06-01T23:58",
           "pair": "XAUUSD",
           "direction": "BUY",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-06-04T03:19",
+          "pair": "XAUUSD",
+          "direction": "SELL",
           "result": "EXPIRED",
           "pips": 0
         }

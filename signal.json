@@ -10,10 +10,10 @@
   "source": "sinyaltradingxauusd",
   "method": "regex",
   "reason": "",
-  "timestamp": "2026-06-08T08:14:38+07:00",
-  "expires": "2026-06-08T09:14:38+07:00",
-  "timestamp_unix": 1780881278,
-  "expires_unix": 1780884878,
-  "updated_wib": "08/06/2026 08:14 WIB",
-  "signal_id": "sinyaltradingxauusd_20260608_081438"
+  "timestamp": "2026-06-08T09:54:28+07:00",
+  "expires": "2026-06-08T10:54:28+07:00",
+  "timestamp_unix": 1780887268,
+  "expires_unix": 1780890868,
+  "updated_wib": "08/06/2026 09:54 WIB",
+  "signal_id": "sinyaltradingxauusd_20260608_095428"
 }

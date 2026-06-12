@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-11T07:54:35+07:00",
-  "generated_wib": "11/06/2026 07:54 WIB",
+  "generated_at": "2026-06-12T07:54:38+07:00",
+  "generated_wib": "12/06/2026 07:54 WIB",
   "total_channels": 34,
-  "total_signals": 1504,
-  "total_resolved": 1504,
+  "total_signals": 1505,
+  "total_resolved": 1505,
   "channel_ranking": [
     {
       "rank": 1,
@@ -163,7 +163,7 @@
       "channel": "TEAM LOVE BIRU 💙💙💙",
       "accuracy_pct": 0.0,
       "net_pips": 0.0,
-      "total_signal": 51,
+      "total_signal": 52,
       "rating": "⚠️ Below average",
       "expectancy": 0.0
     },
@@ -2270,27 +2270,27 @@
       "rating": "⚠️ Below average"
     },
     "TEAM LOVE BIRU 💙💙💙": {
-      "total_signal": 51,
+      "total_signal": 52,
       "total_executed": 0,
-      "total_resolved": 51,
+      "total_resolved": 52,
       "tp_hit": 0,
       "sl_hit": 0,
       "manual_close": 0,
-      "expired": 51,
+      "expired": 52,
       "pending": 0,
       "total_pips": 0.0,
       "win_pips": 0.0,
       "loss_pips": 0.0,
       "by_pair": {
         "XAUUSD": {
-          "total": 51,
+          "total": 52,
           "win": 0,
           "loss": 0
         }
       },
       "by_confidence": {
         "HIGH": {
-          "total": 5,
+          "total": 6,
           "win": 0
         },
         "MEDIUM": {
@@ -2303,13 +2303,6 @@
         }
       },
       "recent_results": [
-        {
-          "time": "2026-05-29T16:49",
-          "pair": "XAUUSD",
-          "direction": "SELL",
-          "result": "EXPIRED",
-          "pips": 0
-        },
         {
           "time": "2026-06-01T20:14",
           "pair": "XAUUSD",
@@ -2368,6 +2361,13 @@
         },
         {
           "time": "2026-06-10T13:23",
+          "pair": "XAUUSD",
+          "direction": "BUY",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-06-11T13:08",
           "pair": "XAUUSD",
           "direction": "BUY",
           "result": "EXPIRED",

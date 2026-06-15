@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-14T07:04:09+07:00",
-  "generated_wib": "14/06/2026 07:04 WIB",
+  "generated_at": "2026-06-15T07:04:13+07:00",
+  "generated_wib": "15/06/2026 07:04 WIB",
   "total_channels": 34,
   "total_signals": 1508,
-  "total_resolved": 1507,
+  "total_resolved": 1508,
   "channel_ranking": [
     {
       "rank": 1,
@@ -3474,12 +3474,12 @@
     "sinyaltradingxauusd": {
       "total_signal": 11,
       "total_executed": 0,
-      "total_resolved": 10,
+      "total_resolved": 11,
       "tp_hit": 0,
       "sl_hit": 0,
       "manual_close": 0,
-      "expired": 10,
-      "pending": 1,
+      "expired": 11,
+      "pending": 0,
       "total_pips": 0.0,
       "win_pips": 0.0,
       "loss_pips": 0.0,
@@ -3510,13 +3510,6 @@
         }
       },
       "recent_results": [
-        {
-          "time": "2026-05-11T17:20",
-          "pair": "XAUUSD",
-          "direction": "SELL",
-          "result": "EXPIRED",
-          "pips": 0
-        },
         {
           "time": "2026-05-11T17:21",
           "pair": "XAUUSD",
@@ -3575,6 +3568,13 @@
         },
         {
           "time": "2026-06-08T09:54",
+          "pair": "BTCUSD",
+          "direction": "BUY",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-06-14T05:27",
           "pair": "BTCUSD",
           "direction": "BUY",
           "result": "EXPIRED",

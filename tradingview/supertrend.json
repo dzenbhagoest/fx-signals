@@ -7,11 +7,11 @@
   "tp1": 0,
   "confidence": "MEDIUM",
   "source": "supertrend_M15",
-  "signal_id": "supertrend_M15_1783343249365",
-  "expires_unix": 1783344449,
-  "received_at": "2026-07-06T13:07:29.365Z",
-  "received_unix": 1783343249,
-  "received_wib": "06/07/2026 20:07 WIB",
+  "signal_id": "supertrend_M15_1783343292318",
+  "expires_unix": 1783344492,
+  "received_at": "2026-07-06T13:08:12.318Z",
+  "received_unix": 1783343292,
+  "received_wib": "06/07/2026 20:08 WIB",
   "worker_source": "supertrend",
   "source_tag_original": "supertrend_M15"
 }

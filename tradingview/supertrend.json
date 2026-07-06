@@ -1,17 +1,17 @@
 {
   "valid": true,
-  "pair": "XAGUSD",
+  "pair": "XAUUSD",
   "direction": "BUY",
-  "entry": 61.4335,
+  "entry": 4570,
   "sl": 0,
   "tp1": 0,
   "confidence": "MEDIUM",
-  "source": "SUPERTREND_M15",
-  "signal_id": "SUPERTREND_M15_1783040405743",
-  "expires_unix": 1783041605,
-  "received_at": "2026-07-03T01:00:05.743Z",
-  "received_unix": 1783040405,
-  "received_wib": "03/07/2026 08:00 WIB",
+  "source": "supertrend_M15",
+  "signal_id": "supertrend_M15_1783343249365",
+  "expires_unix": 1783344449,
+  "received_at": "2026-07-06T13:07:29.365Z",
+  "received_unix": 1783343249,
+  "received_wib": "06/07/2026 20:07 WIB",
   "worker_source": "supertrend",
-  "source_tag_original": "SUPERTREND_M15"
+  "source_tag_original": "supertrend_M15"
 }

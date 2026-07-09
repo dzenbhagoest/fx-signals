@@ -9,11 +9,11 @@
   "confidence": "MEDIUM",
   "source": "TEAM LOVE BIRU 💙💙💙",
   "method": "claude",
-  "reason": "SELL XAUUSD dengan entry range 4068-4073 (rata-rata 4070.5), SL 4083, TP 4006. Sinyal jelas tapi hanya 1 TP yang teridentifikasi",
-  "timestamp": "2026-07-08T23:52:47+07:00",
-  "expires": "2026-07-09T00:52:47+07:00",
-  "timestamp_unix": 1783529567,
-  "expires_unix": 1783533167,
-  "updated_wib": "08/07/2026 23:52 WIB",
-  "signal_id": "TEAM LOVE BIRU 💙💙💙_20260708_235247"
+  "reason": "Sinyal SELL dari konteks: zona 4068-4073 (entry rata-rata 4070.5), SL 4083, TP 4006. Pesan 'Yuk ready' adalah konfirmasi ready trade sebelum eksekusi. Sinyal masih aktif berdasarkan urutan pesan.",
+  "timestamp": "2026-07-09T10:29:17+07:00",
+  "expires": "2026-07-09T11:29:17+07:00",
+  "timestamp_unix": 1783567757,
+  "expires_unix": 1783571357,
+  "updated_wib": "09/07/2026 10:29 WIB",
+  "signal_id": "TEAM LOVE BIRU 💙💙💙_20260709_102917"
 }

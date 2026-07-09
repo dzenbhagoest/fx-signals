@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-08T07:42:53+07:00",
-  "generated_wib": "08/07/2026 07:42 WIB",
+  "generated_at": "2026-07-09T07:42:56+07:00",
+  "generated_wib": "09/07/2026 07:42 WIB",
   "total_channels": 34,
-  "total_signals": 1561,
-  "total_resolved": 1561,
+  "total_signals": 1562,
+  "total_resolved": 1562,
   "channel_ranking": [
     {
       "rank": 1,
@@ -163,7 +163,7 @@
       "channel": "TEAM LOVE BIRU 💙💙💙",
       "accuracy_pct": 0.0,
       "net_pips": 0.0,
-      "total_signal": 91,
+      "total_signal": 92,
       "rating": "⚠️ Below average",
       "expectancy": 0.0
     },
@@ -2270,20 +2270,20 @@
       "rating": "⚠️ Below average"
     },
     "TEAM LOVE BIRU 💙💙💙": {
-      "total_signal": 91,
+      "total_signal": 92,
       "total_executed": 0,
-      "total_resolved": 91,
+      "total_resolved": 92,
       "tp_hit": 0,
       "sl_hit": 0,
       "manual_close": 0,
-      "expired": 91,
+      "expired": 92,
       "pending": 0,
       "total_pips": 0.0,
       "win_pips": 0.0,
       "loss_pips": 0.0,
       "by_pair": {
         "XAUUSD": {
-          "total": 91,
+          "total": 92,
           "win": 0,
           "loss": 0
         }
@@ -2294,7 +2294,7 @@
           "win": 0
         },
         "MEDIUM": {
-          "total": 67,
+          "total": 68,
           "win": 0
         },
         "LOW": {
@@ -2303,13 +2303,6 @@
         }
       },
       "recent_results": [
-        {
-          "time": "2026-06-30T11:34",
-          "pair": "XAUUSD",
-          "direction": "SELL",
-          "result": "EXPIRED",
-          "pips": 0
-        },
         {
           "time": "2026-06-30T20:01",
           "pair": "XAUUSD",
@@ -2370,6 +2363,13 @@
           "time": "2026-07-07T15:22",
           "pair": "XAUUSD",
           "direction": "BUY",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-07-08T23:52",
+          "pair": "XAUUSD",
+          "direction": "SELL",
           "result": "EXPIRED",
           "pips": 0
         }

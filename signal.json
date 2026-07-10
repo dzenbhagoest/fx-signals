@@ -1,19 +1,19 @@
 {
   "valid": true,
   "pair": "XAUUSD",
-  "direction": "SELL",
-  "entry": 4114,
+  "direction": "BUY",
+  "entry": 4093,
   "sl": null,
   "tp1": null,
   "tp2": null,
   "confidence": "MEDIUM",
   "source": "TEAM LOVE BIRU 💙💙💙",
   "method": "claude",
-  "reason": "Sell zona pada price range 4111-4117 (entry rata-rata 4114). Sinyal jelas tapi SL dan TP belum spesifik dalam pesan terbaru, perlu konteks dari pesan sebelumnya untuk detail lengkap.",
-  "timestamp": "2026-07-10T17:03:08+07:00",
-  "expires": "2026-07-10T18:03:08+07:00",
-  "timestamp_unix": 1783677788,
-  "expires_unix": 1783681388,
-  "updated_wib": "10/07/2026 17:03 WIB",
-  "signal_id": "TEAM LOVE BIRU 💙💙💙_20260710_170308"
+  "reason": "Sinyal BUY Higrisk dari konteks pesan sebelumnya (Buy Higrisk 4098-4093, rata-rata 4095.5 dibulatkan 4093). Instruksi terbaru 'Yuk buy Higrisk dulu, Tunggu di sana baru sell' mengkonfirmasi entry BUY. Belum ada SL dan TP yang dinyatakan dengan jelas untuk entry ini.",
+  "timestamp": "2026-07-10T17:09:28+07:00",
+  "expires": "2026-07-10T18:09:28+07:00",
+  "timestamp_unix": 1783678168,
+  "expires_unix": 1783681768,
+  "updated_wib": "10/07/2026 17:09 WIB",
+  "signal_id": "TEAM LOVE BIRU 💙💙💙_20260710_170928"
 }

@@ -6,12 +6,12 @@
   "sl": 0,
   "tp1": 0,
   "confidence": "MEDIUM",
-  "source": "UTBOT_M30",
-  "signal_id": "UTBOT_M30_1785162608393",
-  "expires_unix": 1785163808,
-  "received_at": "2026-07-27T14:30:08.393Z",
-  "received_unix": 1785162608,
+  "source": "UTBOT_M15",
+  "signal_id": "UTBOT_M15_1785162617432",
+  "expires_unix": 1785163817,
+  "received_at": "2026-07-27T14:30:17.432Z",
+  "received_unix": 1785162617,
   "received_wib": "27/07/2026 21:30 WIB",
   "worker_source": "utbot",
-  "source_tag_original": "UTBOT_M30"
+  "source_tag_original": "UTBOT_M15"
 }

@@ -1,17 +1,17 @@
 {
   "valid": true,
-  "pair": "XAUUSD",
+  "pair": "XAGUSD",
   "direction": "SELL",
-  "entry": 4233.82,
+  "entry": 61.0885,
   "sl": 0,
   "tp1": 0,
   "confidence": "MEDIUM",
-  "source": "UTBOT_M30",
-  "signal_id": "UTBOT_M30_1786032001909",
-  "expires_unix": 1786033201,
-  "received_at": "2026-08-06T16:00:01.909Z",
-  "received_unix": 1786032001,
+  "source": "UTBOT_M15",
+  "signal_id": "UTBOT_M15_1786032004591",
+  "expires_unix": 1786033204,
+  "received_at": "2026-08-06T16:00:04.591Z",
+  "received_unix": 1786032004,
   "received_wib": "06/08/2026 23:00 WIB",
   "worker_source": "utbot",
-  "source_tag_original": "UTBOT_M30"
+  "source_tag_original": "UTBOT_M15"
 }

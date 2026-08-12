@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-11T07:37:43+07:00",
-  "generated_wib": "11/08/2026 07:37 WIB",
+  "generated_at": "2026-08-12T07:37:46+07:00",
+  "generated_wib": "12/08/2026 07:37 WIB",
   "total_channels": 34,
   "total_signals": 1735,
-  "total_resolved": 1734,
+  "total_resolved": 1735,
   "channel_ranking": [
     {
       "rank": 1,
@@ -2272,12 +2272,12 @@
     "TEAM LOVE BIRU 💙💙💙": {
       "total_signal": 134,
       "total_executed": 0,
-      "total_resolved": 133,
+      "total_resolved": 134,
       "tp_hit": 0,
       "sl_hit": 0,
       "manual_close": 0,
-      "expired": 133,
-      "pending": 1,
+      "expired": 134,
+      "pending": 0,
       "total_pips": 0.0,
       "win_pips": 0.0,
       "loss_pips": 0.0,
@@ -2303,13 +2303,6 @@
         }
       },
       "recent_results": [
-        {
-          "time": "2026-07-30T07:15",
-          "pair": "XAUUSD",
-          "direction": "BUY",
-          "result": "EXPIRED",
-          "pips": 0
-        },
         {
           "time": "2026-07-31T14:29",
           "pair": "XAUUSD",
@@ -2368,6 +2361,13 @@
         },
         {
           "time": "2026-08-10T21:44",
+          "pair": "XAUUSD",
+          "direction": "SELL",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-08-11T02:33",
           "pair": "XAUUSD",
           "direction": "SELL",
           "result": "EXPIRED",

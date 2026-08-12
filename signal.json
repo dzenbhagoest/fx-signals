@@ -9,11 +9,11 @@
   "confidence": "MEDIUM",
   "source": "jamalnusantara",
   "method": "claude",
-  "reason": "Update SL+ (breakeven move) dari sinyal BUY sebelumnya di 4405-4411. Entry diambil rata-rata range 4405-4411 = 4408. SL dinaikkan ke 4411.50 untuk proteksi. TP tetap 4420. Hold pending CPI malam ini. Sinyal masih aktif dengan update manajemen risiko.",
-  "timestamp": "2026-08-12T18:57:02+07:00",
-  "expires": "2026-08-12T19:57:02+07:00",
-  "timestamp_unix": 1786535822,
-  "expires_unix": 1786539422,
-  "updated_wib": "12/08/2026 18:57 WIB",
-  "signal_id": "jamalnusantara_20260812_185702"
+  "reason": "Sinyal BUY GOLD diulang, menggunakan konteks sebelumnya: entry rata-rata range 4411-4405 = 4408, SL diperbaharui ke 4411.50 (breakeven+), TP 4420. Sinyal masih aktif per pesan terakhir 'gold buy now'",
+  "timestamp": "2026-08-12T19:06:41+07:00",
+  "expires": "2026-08-12T20:06:41+07:00",
+  "timestamp_unix": 1786536401,
+  "expires_unix": 1786540001,
+  "updated_wib": "12/08/2026 19:06 WIB",
+  "signal_id": "jamalnusantara_20260812_190641"
 }

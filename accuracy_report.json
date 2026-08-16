@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-15T07:25:52+07:00",
-  "generated_wib": "15/08/2026 07:25 WIB",
+  "generated_at": "2026-08-16T07:57:50+07:00",
+  "generated_wib": "16/08/2026 07:57 WIB",
   "total_channels": 34,
   "total_signals": 1754,
-  "total_resolved": 1753,
+  "total_resolved": 1754,
   "channel_ranking": [
     {
       "rank": 1,
@@ -2046,12 +2046,12 @@
     "VVIP Syukur Sinyal 🇮🇩": {
       "total_signal": 415,
       "total_executed": 0,
-      "total_resolved": 414,
+      "total_resolved": 415,
       "tp_hit": 0,
       "sl_hit": 0,
       "manual_close": 0,
-      "expired": 414,
-      "pending": 1,
+      "expired": 415,
+      "pending": 0,
       "total_pips": 0.0,
       "win_pips": 0.0,
       "loss_pips": 0.0,
@@ -2077,13 +2077,6 @@
         }
       },
       "recent_results": [
-        {
-          "time": "2026-08-14T15:58",
-          "pair": "XAUUSD",
-          "direction": "BUY",
-          "result": "EXPIRED",
-          "pips": 0
-        },
         {
           "time": "2026-08-14T17:31",
           "pair": "XAUUSD",
@@ -2144,6 +2137,13 @@
           "time": "2026-08-15T01:12",
           "pair": "XAUUSD",
           "direction": "SELL",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-08-15T01:58",
+          "pair": "XAUUSD",
+          "direction": "BUY",
           "result": "EXPIRED",
           "pips": 0
         }

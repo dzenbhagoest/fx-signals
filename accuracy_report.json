@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-23T07:50:55+07:00",
-  "generated_wib": "23/08/2026 07:50 WIB",
+  "generated_at": "2026-08-24T07:50:57+07:00",
+  "generated_wib": "24/08/2026 07:50 WIB",
   "total_channels": 34,
-  "total_signals": 1843,
+  "total_signals": 1845,
   "total_resolved": 1843,
   "channel_ranking": [
     {
@@ -145,7 +145,7 @@
       "channel": "VVIP Syukur Sinyal 🇮🇩",
       "accuracy_pct": 0.0,
       "net_pips": 0.0,
-      "total_signal": 501,
+      "total_signal": 503,
       "rating": "⚠️ Below average",
       "expectancy": 0.0
     },
@@ -2044,20 +2044,20 @@
       "rating": "⚠️ Below average"
     },
     "VVIP Syukur Sinyal 🇮🇩": {
-      "total_signal": 501,
+      "total_signal": 503,
       "total_executed": 0,
       "total_resolved": 501,
       "tp_hit": 0,
       "sl_hit": 0,
       "manual_close": 0,
       "expired": 501,
-      "pending": 0,
+      "pending": 2,
       "total_pips": 0.0,
       "win_pips": 0.0,
       "loss_pips": 0.0,
       "by_pair": {
         "XAUUSD": {
-          "total": 501,
+          "total": 503,
           "win": 0,
           "loss": 0
         }
@@ -2068,7 +2068,7 @@
           "win": 0
         },
         "MEDIUM": {
-          "total": 395,
+          "total": 397,
           "win": 0
         },
         "LOW": {

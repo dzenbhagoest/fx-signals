@@ -2,7 +2,7 @@
   "valid": true,
   "pair": "XAUUSD",
   "direction": "BUY",
-  "entry": 4289.0,
+  "entry": 4275.0,
   "sl": null,
   "tp1": null,
   "tp2": null,
@@ -10,10 +10,10 @@
   "source": "TEAM LOVE BIRU 💙💙💙",
   "method": "regex",
   "reason": "",
-  "timestamp": "2026-09-14T20:37:07+07:00",
-  "expires": "2026-09-14T21:37:07+07:00",
-  "timestamp_unix": 1789393027,
-  "expires_unix": 1789396627,
-  "updated_wib": "14/09/2026 20:37 WIB",
-  "signal_id": "TEAM LOVE BIRU 💙💙💙_20260914_203707"
+  "timestamp": "2026-09-15T14:35:35+07:00",
+  "expires": "2026-09-15T15:35:35+07:00",
+  "timestamp_unix": 1789457735,
+  "expires_unix": 1789461335,
+  "updated_wib": "15/09/2026 14:35 WIB",
+  "signal_id": "TEAM LOVE BIRU 💙💙💙_20260915_143535"
 }

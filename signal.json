@@ -1,19 +1,19 @@
 {
   "valid": true,
   "pair": "XAUUSD",
-  "direction": "BUY",
-  "entry": 4255.5,
+  "direction": "SELL",
+  "entry": 4281.0,
   "sl": null,
   "tp1": null,
   "tp2": null,
   "confidence": "MEDIUM",
-  "source": "TEAM LOVE BIRU 💙💙💙",
+  "source": "VVIP Syukur Sinyal 🇮🇩",
   "method": "regex",
   "reason": "",
-  "timestamp": "2026-09-24T18:52:17+07:00",
-  "expires": "2026-09-24T19:52:17+07:00",
-  "timestamp_unix": 1790250737,
-  "expires_unix": 1790254337,
-  "updated_wib": "24/09/2026 18:52 WIB",
-  "signal_id": "TEAM LOVE BIRU 💙💙💙_20260924_185217"
+  "timestamp": "2026-09-24T20:07:32+07:00",
+  "expires": "2026-09-24T21:07:32+07:00",
+  "timestamp_unix": 1790255252,
+  "expires_unix": 1790258852,
+  "updated_wib": "24/09/2026 20:07 WIB",
+  "signal_id": "VVIP Syukur Sinyal 🇮🇩_20260924_200732"
 }

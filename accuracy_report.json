@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-25T07:17:45+07:00",
-  "generated_wib": "25/09/2026 07:17 WIB",
+  "generated_at": "2026-09-26T07:17:49+07:00",
+  "generated_wib": "26/09/2026 07:17 WIB",
   "total_channels": 35,
-  "total_signals": 2037,
-  "total_resolved": 2037,
+  "total_signals": 2049,
+  "total_resolved": 2049,
   "channel_ranking": [
     {
       "rank": 1,
@@ -145,7 +145,7 @@
       "channel": "VVIP Syukur Sinyal 🇮🇩",
       "accuracy_pct": 0.0,
       "net_pips": 0.0,
-      "total_signal": 644,
+      "total_signal": 654,
       "rating": "⚠️ Below average",
       "expectancy": 0.0
     },
@@ -163,7 +163,7 @@
       "channel": "TEAM LOVE BIRU 💙💙💙",
       "accuracy_pct": 0.0,
       "net_pips": 0.0,
-      "total_signal": 180,
+      "total_signal": 182,
       "rating": "⚠️ Below average",
       "expectancy": 0.0
     },
@@ -2044,20 +2044,20 @@
       "rating": "⚠️ Below average"
     },
     "VVIP Syukur Sinyal 🇮🇩": {
-      "total_signal": 644,
+      "total_signal": 654,
       "total_executed": 0,
-      "total_resolved": 644,
+      "total_resolved": 654,
       "tp_hit": 0,
       "sl_hit": 0,
       "manual_close": 0,
-      "expired": 644,
+      "expired": 654,
       "pending": 0,
       "total_pips": 0.0,
       "win_pips": 0.0,
       "loss_pips": 0.0,
       "by_pair": {
         "XAUUSD": {
-          "total": 644,
+          "total": 654,
           "win": 0,
           "loss": 0
         }
@@ -2068,80 +2068,80 @@
           "win": 0
         },
         "MEDIUM": {
-          "total": 532,
+          "total": 541,
           "win": 0
         },
         "LOW": {
-          "total": 18,
+          "total": 19,
           "win": 0
         }
       },
       "recent_results": [
         {
-          "time": "2026-09-22T22:10",
+          "time": "2026-09-25T14:07",
           "pair": "XAUUSD",
           "direction": "BUY",
           "result": "EXPIRED",
           "pips": 0
         },
         {
-          "time": "2026-09-22T22:11",
+          "time": "2026-09-25T17:08",
           "pair": "XAUUSD",
           "direction": "BUY",
           "result": "EXPIRED",
           "pips": 0
         },
         {
-          "time": "2026-09-22T22:51",
+          "time": "2026-09-25T20:02",
           "pair": "XAUUSD",
           "direction": "BUY",
           "result": "EXPIRED",
           "pips": 0
         },
         {
-          "time": "2026-09-24T20:07",
+          "time": "2026-09-25T20:17",
+          "pair": "XAUUSD",
+          "direction": "BUY",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-09-25T20:31",
+          "pair": "XAUUSD",
+          "direction": "BUY",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-09-25T20:34",
+          "pair": "XAUUSD",
+          "direction": "BUY",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-09-25T21:05",
+          "pair": "XAUUSD",
+          "direction": "BUY",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-09-25T21:10",
+          "pair": "XAUUSD",
+          "direction": "BUY",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-09-25T22:06",
           "pair": "XAUUSD",
           "direction": "SELL",
           "result": "EXPIRED",
           "pips": 0
         },
         {
-          "time": "2026-09-24T20:35",
-          "pair": "XAUUSD",
-          "direction": "BUY",
-          "result": "EXPIRED",
-          "pips": 0
-        },
-        {
-          "time": "2026-09-24T22:11",
-          "pair": "XAUUSD",
-          "direction": "BUY",
-          "result": "EXPIRED",
-          "pips": 0
-        },
-        {
-          "time": "2026-09-24T23:29",
-          "pair": "XAUUSD",
-          "direction": "BUY",
-          "result": "EXPIRED",
-          "pips": 0
-        },
-        {
-          "time": "2026-09-24T23:47",
-          "pair": "XAUUSD",
-          "direction": "BUY",
-          "result": "EXPIRED",
-          "pips": 0
-        },
-        {
-          "time": "2026-09-25T00:11",
-          "pair": "XAUUSD",
-          "direction": "BUY",
-          "result": "EXPIRED",
-          "pips": 0
-        },
-        {
-          "time": "2026-09-25T00:37",
+          "time": "2026-09-25T22:38",
           "pair": "XAUUSD",
           "direction": "SELL",
           "result": "EXPIRED",
@@ -2270,20 +2270,20 @@
       "rating": "⚠️ Below average"
     },
     "TEAM LOVE BIRU 💙💙💙": {
-      "total_signal": 180,
+      "total_signal": 182,
       "total_executed": 0,
-      "total_resolved": 180,
+      "total_resolved": 182,
       "tp_hit": 0,
       "sl_hit": 0,
       "manual_close": 0,
-      "expired": 180,
+      "expired": 182,
       "pending": 0,
       "total_pips": 0.0,
       "win_pips": 0.0,
       "loss_pips": 0.0,
       "by_pair": {
         "XAUUSD": {
-          "total": 180,
+          "total": 182,
           "win": 0,
           "loss": 0
         }
@@ -2294,7 +2294,7 @@
           "win": 0
         },
         "MEDIUM": {
-          "total": 142,
+          "total": 144,
           "win": 0
         },
         "LOW": {
@@ -2303,20 +2303,6 @@
         }
       },
       "recent_results": [
-        {
-          "time": "2026-09-21T18:56",
-          "pair": "XAUUSD",
-          "direction": "BUY",
-          "result": "EXPIRED",
-          "pips": 0
-        },
-        {
-          "time": "2026-09-21T20:17",
-          "pair": "XAUUSD",
-          "direction": "BUY",
-          "result": "EXPIRED",
-          "pips": 0
-        },
         {
           "time": "2026-09-22T14:34",
           "pair": "XAUUSD",
@@ -2368,6 +2354,20 @@
         },
         {
           "time": "2026-09-24T18:52",
+          "pair": "XAUUSD",
+          "direction": "BUY",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-09-25T18:24",
+          "pair": "XAUUSD",
+          "direction": "BUY",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-09-25T23:48",
           "pair": "XAUUSD",
           "direction": "BUY",
           "result": "EXPIRED",

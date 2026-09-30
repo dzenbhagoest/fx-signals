@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-29T07:23:13+07:00",
-  "generated_wib": "29/09/2026 07:23 WIB",
+  "generated_at": "2026-09-30T07:23:11+07:00",
+  "generated_wib": "30/09/2026 07:23 WIB",
   "total_channels": 35,
-  "total_signals": 2053,
-  "total_resolved": 2053,
+  "total_signals": 2054,
+  "total_resolved": 2054,
   "channel_ranking": [
     {
       "rank": 1,
       "channel": "jamalnusantara",
       "accuracy_pct": 0.0,
       "net_pips": 0.0,
-      "total_signal": 237,
+      "total_signal": 238,
       "rating": "⚠️ Below average",
       "expectancy": 0.0
     },
@@ -242,20 +242,20 @@
   ],
   "channels": {
     "jamalnusantara": {
-      "total_signal": 237,
+      "total_signal": 238,
       "total_executed": 0,
-      "total_resolved": 237,
+      "total_resolved": 238,
       "tp_hit": 0,
       "sl_hit": 0,
       "manual_close": 0,
-      "expired": 237,
+      "expired": 238,
       "pending": 0,
       "total_pips": 0.0,
       "win_pips": 0.0,
       "loss_pips": 0.0,
       "by_pair": {
         "XAUUSD": {
-          "total": 237,
+          "total": 238,
           "win": 0,
           "loss": 0
         }
@@ -266,7 +266,7 @@
           "win": 0
         },
         "MEDIUM": {
-          "total": 227,
+          "total": 228,
           "win": 0
         },
         "LOW": {
@@ -275,13 +275,6 @@
         }
       },
       "recent_results": [
-        {
-          "time": "2026-08-26T10:30",
-          "pair": "XAUUSD",
-          "direction": "BUY",
-          "result": "EXPIRED",
-          "pips": 0
-        },
         {
           "time": "2026-08-26T13:25",
           "pair": "XAUUSD",
@@ -342,6 +335,13 @@
           "time": "2026-09-28T15:08",
           "pair": "XAUUSD",
           "direction": "BUY",
+          "result": "EXPIRED",
+          "pips": 0
+        },
+        {
+          "time": "2026-09-29T14:11",
+          "pair": "XAUUSD",
+          "direction": "SELL",
           "result": "EXPIRED",
           "pips": 0
         }
